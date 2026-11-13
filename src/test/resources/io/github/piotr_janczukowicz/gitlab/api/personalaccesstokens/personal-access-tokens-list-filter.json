@@ -1,0 +1,13 @@
+{
+  "user_id": 1,
+  "revoked": true,
+  "state": "all",
+  "created_before": "2026-01-01T00:00:00Z",
+  "created_after": "2026-01-01T00:00:00Z",
+  "last_used_before": "2026-01-01T00:00:00Z",
+  "last_used_after": "2026-01-01T00:00:00Z",
+  "expires_before": "2026-01-01",
+  "expires_after": "2026-01-01",
+  "search": "search",
+  "sort": "sort"
+}

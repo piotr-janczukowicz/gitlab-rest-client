@@ -1,0 +1,8 @@
+{
+  "icon": "cancel",
+  "title": "Cancel",
+  "path": "/namespace1/project1/-/jobs/2/cancel",
+  "method": "post",
+  "button_title": "Cancel this job",
+  "confirmation_message": "Are you sure?"
+}

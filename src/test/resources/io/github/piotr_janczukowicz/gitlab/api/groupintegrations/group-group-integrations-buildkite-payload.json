@@ -1,0 +1,9 @@
+{
+  "project_url": "project_url",
+  "token": "token",
+  "enable_ssl_verification": true,
+  "push_events": true,
+  "merge_requests_events": true,
+  "tag_push_events": true,
+  "use_inherited_settings": true
+}

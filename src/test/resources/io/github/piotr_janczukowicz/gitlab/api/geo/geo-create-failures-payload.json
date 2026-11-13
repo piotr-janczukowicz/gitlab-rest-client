@@ -1,0 +1,14 @@
+{
+  "geo_node_id": 1,
+  "failures": [
+    {
+      "error_type": "checksum_mismatch",
+      "replicable_name": "upload",
+      "replicable_id": 1,
+      "verification_retry_count": 1,
+      "context": {
+        "key": "value"
+      }
+    }
+  ]
+}

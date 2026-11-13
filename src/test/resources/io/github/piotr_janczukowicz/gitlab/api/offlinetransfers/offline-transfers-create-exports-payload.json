@@ -1,0 +1,34 @@
+{
+  "bucket": "bucket",
+  "aws_s3_configuration": {
+    "aws_access_key_id": "aws_access_key_id",
+    "aws_secret_access_key": "aws_secret_access_key",
+    "region": "region",
+    "path_style": true
+  },
+  "s3_compatible_configuration": {
+    "aws_access_key_id": "aws_access_key_id",
+    "aws_secret_access_key": "aws_secret_access_key",
+    "region": "region",
+    "endpoint": "endpoint",
+    "path_style": true
+  },
+  "gcs_configuration": {
+    "google_project": "google_project",
+    "google_json_key_string": "google_json_key_string"
+  },
+  "gcs_hmac_configuration": {
+    "google_storage_access_key_id": "google_storage_access_key_id",
+    "google_storage_secret_access_key": "google_storage_secret_access_key",
+    "region": "region",
+    "path_style": true
+  },
+  "gcs_adc_configuration": {
+    "google_project": "google_project"
+  },
+  "entities": [
+    {
+      "full_path": "'source/full/path' not 'https://example.com/source/full/path'"
+    }
+  ]
+}

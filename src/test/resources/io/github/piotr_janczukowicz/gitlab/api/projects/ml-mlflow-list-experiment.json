@@ -1,0 +1,17 @@
+{
+  "experiments": [
+    {
+      "experiment_id": "1",
+      "name": "my_experiment",
+      "lifecycle_stage": "active",
+      "artifact_location": "artifact_location",
+      "tags": [
+        {
+          "key": "key",
+          "value": "value"
+        }
+      ]
+    }
+  ],
+  "next_page_token": "next_page_token"
+}

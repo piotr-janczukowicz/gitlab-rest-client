@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "from_line": 1,
+  "to_line": 1,
+  "appliable": true,
+  "applied": true,
+  "from_content": "Original content\n",
+  "to_content": "New content\n"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "bug",
+  "description": "Bug reported by user",
+  "text_color": "#FFFFFF",
+  "description_html": "<p>Bug reported by user</p>",
+  "color": "#FF0000",
+  "archived": true,
+  "open_issues_count": 1,
+  "closed_issues_count": 1,
+  "open_merge_requests_count": 1,
+  "subscribed": true
+}

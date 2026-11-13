@@ -1,0 +1,8 @@
+{
+  "name": "QA",
+  "shared_secret": "hmac-sha256",
+  "external_url": "https://www.example.com",
+  "protected_branch_ids": [
+    1
+  ]
+}

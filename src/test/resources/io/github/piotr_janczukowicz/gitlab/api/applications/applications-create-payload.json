@@ -1,0 +1,20 @@
+{
+  "name": "MyApplication",
+  "redirect_uri": "https://redirect.uri",
+  "scopes": "scopes",
+  "confidential": true,
+  "granular_scopes": [
+    {
+      "access": "personal_projects",
+      "permissions": [
+        "permissions"
+      ],
+      "project_ids": [
+        1
+      ],
+      "group_ids": [
+        1
+      ]
+    }
+  ]
+}

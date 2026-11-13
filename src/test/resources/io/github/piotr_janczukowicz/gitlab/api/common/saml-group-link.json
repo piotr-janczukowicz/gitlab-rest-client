@@ -1,0 +1,6 @@
+{
+  "name": "saml-group-1",
+  "access_level": 1,
+  "member_role_id": 1,
+  "provider": "saml"
+}

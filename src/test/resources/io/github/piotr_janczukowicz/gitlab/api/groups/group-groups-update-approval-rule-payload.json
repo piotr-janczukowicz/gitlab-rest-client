@@ -1,0 +1,11 @@
+{
+  "name": "name",
+  "approvals_required": 1,
+  "rule_type": "regular",
+  "user_ids": [
+    1
+  ],
+  "group_ids": [
+    1
+  ]
+}

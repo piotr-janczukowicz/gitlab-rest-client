@@ -1,0 +1,6 @@
+{
+  "self": "http://gitlab.example.com/api/v4/groups/7/epics/5",
+  "epic_issues": "http://gitlab.example.com/api/v4/groups/7/epics/5/issues",
+  "group": "http://gitlab.example.com/api/v4/groups/7",
+  "parent": "http://gitlab.example.com/api/v4/groups/7/epics/4"
+}

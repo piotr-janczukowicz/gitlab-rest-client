@@ -1,0 +1,12 @@
+{
+  "access_level": 10,
+  "email": [
+    "email"
+  ],
+  "user_id": [
+    "user_id"
+  ],
+  "expires_at": "2026-01-01T00:00:00Z",
+  "invite_source": "invite_source",
+  "member_role_id": 1
+}

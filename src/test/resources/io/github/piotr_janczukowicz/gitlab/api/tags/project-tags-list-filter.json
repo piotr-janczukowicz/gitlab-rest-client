@@ -1,0 +1,6 @@
+{
+  "sort": "asc",
+  "order_by": "name",
+  "search": "search",
+  "page_token": "page_token"
+}

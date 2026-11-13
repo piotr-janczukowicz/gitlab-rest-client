@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "message": "Example broadcast message",
+  "starts_at": "2026-01-01T00:00:00Z",
+  "ends_at": "2026-01-01T00:00:00Z",
+  "color": "#E75E40",
+  "font": "#FFFFFF",
+  "target_access_levels": [
+    1
+  ],
+  "target_path": "*/welcome",
+  "broadcast_type": "banner",
+  "theme": "indigo",
+  "dismissable": true,
+  "active": true
+}

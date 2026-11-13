@@ -1,0 +1,11 @@
+{
+  "query": "query",
+  "user_ids": [
+    1
+  ],
+  "skip_users": [
+    1
+  ],
+  "show_seat_info": true,
+  "with_saml_identity": true
+}

@@ -1,0 +1,11 @@
+{
+  "metrics": [
+    {
+      "key": "key",
+      "value": 1.5,
+      "timestamp": 1,
+      "step": 1
+    }
+  ],
+  "next_page_token": "next_page_token"
+}

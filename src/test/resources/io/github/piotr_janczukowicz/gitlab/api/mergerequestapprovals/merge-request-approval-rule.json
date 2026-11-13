@@ -1,0 +1,170 @@
+{
+  "id": 1,
+  "name": "QA",
+  "rule_type": "regular",
+  "eligible_approvers": [
+    {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root"
+    }
+  ],
+  "approvals_required": 1,
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "web_url": "http://gitlab.example.com/groups/diaspora",
+      "name": "Diaspora",
+      "path": "path",
+      "description": "description",
+      "visibility": "visibility",
+      "share_with_group_lock": true,
+      "require_two_factor_authentication": true,
+      "two_factor_grace_period": 1,
+      "project_creation_level": "project_creation_level",
+      "auto_devops_enabled": true,
+      "subgroup_creation_level": "subgroup_creation_level",
+      "emails_disabled": true,
+      "emails_enabled": true,
+      "show_diff_preview_in_email": true,
+      "mentions_disabled": true,
+      "lfs_enabled": true,
+      "archived": true,
+      "math_rendering_limits_enabled": true,
+      "lock_math_rendering_limits_enabled": true,
+      "crm_enabled": true,
+      "resource_access_token_notify_inherited": true,
+      "lock_resource_access_token_notify_inherited": true,
+      "default_branch": "default_branch",
+      "default_branch_protection": 1,
+      "default_branch_protection_defaults": {
+        "allowed_to_push": [
+          {
+            "access_level": 30
+          }
+        ],
+        "allow_force_push": true,
+        "allowed_to_merge": [
+          {
+            "access_level": 30
+          }
+        ],
+        "code_owner_approval_required": true,
+        "developer_can_initial_push": true
+      },
+      "avatar_url": "avatar_url",
+      "request_access_enabled": true,
+      "full_name": "full_name",
+      "full_path": "full_path",
+      "created_at": "2026-01-01T00:00:00Z",
+      "parent_id": 1,
+      "organization_id": 1,
+      "shared_runners_setting": "shared_runners_setting",
+      "max_artifacts_size": 1,
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "statistics": {
+        "storage_size": "storage_size",
+        "repository_size": "repository_size",
+        "wiki_size": "wiki_size",
+        "lfs_objects_size": "lfs_objects_size",
+        "job_artifacts_size": "job_artifacts_size",
+        "pipeline_artifacts_size": "pipeline_artifacts_size",
+        "packages_size": "packages_size",
+        "snippets_size": "snippets_size",
+        "uploads_size": "uploads_size"
+      },
+      "marked_for_deletion_on": "marked_for_deletion_on",
+      "root_storage_statistics": {
+        "build_artifacts_size": 1,
+        "container_registry_size": 1,
+        "container_registry_size_is_estimated": true,
+        "dependency_proxy_size": 1,
+        "lfs_objects_size": 1,
+        "packages_size": 1,
+        "pipeline_artifacts_size": 1,
+        "repository_size": 1,
+        "snippets_size": 1,
+        "storage_size": 1,
+        "uploads_size": 1,
+        "wiki_size": 1
+      },
+      "ldap_cn": "ldap_cn",
+      "ldap_access": "ldap_access",
+      "ldap_group_links": {
+        "cn": "ldap-group-1",
+        "group_access": 1,
+        "provider": "ldapmain",
+        "filter": "id >= 500",
+        "member_role_id": 1
+      },
+      "saml_group_links": {
+        "name": "saml-group-1",
+        "access_level": 1,
+        "member_role_id": 1,
+        "provider": "saml"
+      },
+      "file_template_project_id": 1,
+      "wiki_access_level": "wiki_access_level",
+      "repository_storage": "repository_storage",
+      "duo_core_features_enabled": true,
+      "duo_features_enabled": true,
+      "lock_duo_features_enabled": true,
+      "auto_duo_code_review_enabled": "auto_duo_code_review_enabled",
+      "duo_code_review_depth_allowed": true,
+      "duo_code_review_default_depth": "standard",
+      "duo_code_review_decisions_enabled": "duo_code_review_decisions_enabled",
+      "web_based_commit_signing_enabled": true,
+      "allow_personal_snippets": "allow_personal_snippets",
+      "duo_namespace_access_rules": [
+        {
+          "key": "value"
+        }
+      ],
+      "built_in_project_templates_enabled": true,
+      "lock_built_in_project_templates_enabled": true
+    }
+  ],
+  "contains_hidden_groups": true,
+  "report_type": "report_type",
+  "section": "Backend",
+  "source_rule": {
+    "approvals_required": 1
+  },
+  "overridden": true
+}

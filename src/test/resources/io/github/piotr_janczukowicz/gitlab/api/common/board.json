@@ -1,0 +1,153 @@
+{
+  "id": 1,
+  "name": "Development",
+  "hide_backlog_list": true,
+  "hide_closed_list": true,
+  "project": {
+    "id": 1,
+    "description": "desc",
+    "name": "project1",
+    "name_with_namespace": "John Doe / project1",
+    "path": "project1",
+    "path_with_namespace": "namespace1/project1",
+    "created_at": "2026-01-01T00:00:00Z",
+    "default_branch": "main",
+    "tag_list": [
+      "tag"
+    ],
+    "topics": [
+      "topic"
+    ],
+    "ssh_url_to_repo": "git@gitlab.example.com:gitlab/gitlab.git",
+    "http_url_to_repo": "https://gitlab.example.com/gitlab/gitlab.git",
+    "web_url": "https://gitlab.example.com/gitlab/gitlab",
+    "readme_url": "https://gitlab.example.com/gitlab/gitlab/blob/master/README.md",
+    "forks_count": 1,
+    "license_url": "https://gitlab.example.com/gitlab/gitlab/blob/master/LICENCE",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "nickname": "GNU GPLv3",
+      "html_url": "http://choosealicense.com/licenses/gpl-3.0",
+      "source_url": "source_url"
+    },
+    "avatar_url": "http://example.com/uploads/project/avatar/3/uploads/avatar.png",
+    "star_count": 1,
+    "last_activity_at": "2026-01-01T00:00:00Z",
+    "visibility": "public",
+    "namespace": {
+      "id": 1,
+      "name": "project",
+      "path": "my_project",
+      "kind": "project",
+      "full_path": "group/my_project",
+      "parent_id": 1,
+      "avatar_url": "https://example.com/avatar/12345",
+      "web_url": "https://example.com/group/my_project"
+    },
+    "custom_attributes": {
+      "key": "foo",
+      "value": "bar"
+    },
+    "repository_storage": "default"
+  },
+  "lists": [
+    {
+      "id": 1,
+      "label": {
+        "id": 1,
+        "name": "bug",
+        "description": "Bug reported by user",
+        "text_color": "#FFFFFF",
+        "description_html": "<p>Bug reported by user</p>",
+        "color": "#FF0000",
+        "archived": true
+      },
+      "position": 1,
+      "milestone": {
+        "id": 1,
+        "iid": 1,
+        "project_id": 1,
+        "group_id": 1,
+        "title": "title",
+        "description": "description",
+        "state": "state",
+        "created_at": "2026-01-01T00:00:00Z",
+        "updated_at": "2026-01-01T00:00:00Z",
+        "due_date": "due_date",
+        "start_date": "start_date",
+        "expired": true,
+        "web_url": "web_url"
+      },
+      "iteration": {
+        "id": 1,
+        "iid": 1,
+        "sequence": 1,
+        "group_id": 1,
+        "title": "Iteration I",
+        "description": "Iteration description",
+        "state": 1,
+        "created_at": "2026-01-01T00:00:00Z",
+        "updated_at": "2026-01-01T00:00:00Z",
+        "start_date": "2026-01-01",
+        "due_date": "2026-01-01",
+        "web_url": "https://gitlab.example.com/groups/gitlab-org/-/iterations/1"
+      },
+      "assignee": {
+        "id": 1,
+        "username": "admin",
+        "public_email": "john@example.com",
+        "name": "Administrator"
+      },
+      "status": {
+        "id": 1,
+        "name": "To do",
+        "icon_name": "status-neutral",
+        "color": "#737278",
+        "position": 1,
+        "description": "description",
+        "category": "triage"
+      },
+      "max_issue_count": 1,
+      "max_issue_weight": 1,
+      "limit_metric": "issue_count"
+    }
+  ],
+  "group": {
+    "id": 1,
+    "web_url": "http://gitlab.example.com/groups/diaspora",
+    "name": "Diaspora"
+  },
+  "milestone": {
+    "key": "value"
+  },
+  "assignee": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "labels": [
+    {
+      "id": 1,
+      "name": "bug",
+      "description": "Bug reported by user",
+      "text_color": "#FFFFFF",
+      "description_html": "<p>Bug reported by user</p>",
+      "color": "#FF0000",
+      "archived": true
+    }
+  ],
+  "weight": 1
+}

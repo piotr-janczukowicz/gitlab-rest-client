@@ -1,0 +1,14 @@
+{
+  "value": "text",
+  "key": "percentage_of_actors",
+  "feature_group": "feature_group",
+  "user": "user",
+  "group": "group",
+  "namespace": "namespace",
+  "project": "project",
+  "organization": "organization",
+  "repository": "repository",
+  "runner": "runner",
+  "endpoint": "endpoint",
+  "force": true
+}

@@ -1,0 +1,5 @@
+{
+  "order_by": "created_at",
+  "sort": "asc",
+  "activity_filter": "all_notes"
+}

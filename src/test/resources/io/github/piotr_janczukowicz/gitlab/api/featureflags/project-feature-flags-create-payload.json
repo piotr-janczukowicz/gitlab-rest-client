@@ -1,0 +1,19 @@
+{
+  "name": "name",
+  "description": "description",
+  "active": true,
+  "strategies": [
+    {
+      "name": "name",
+      "parameters": {
+        "key": "value"
+      },
+      "user_list_id": 1,
+      "scopes": [
+        {
+          "environment_scope": "environment_scope"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "token": "token",
+  "state": "state",
+  "checksum": "checksum",
+  "failure_reason": "failure_reason",
+  "output": {
+    "checksum": "checksum",
+    "bytesize": 1
+  },
+  "exit_code": 1,
+  "runtime_environment_key": "runtime_environment_key"
+}

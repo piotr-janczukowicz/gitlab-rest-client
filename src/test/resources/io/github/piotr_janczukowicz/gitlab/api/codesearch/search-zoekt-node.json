@@ -1,0 +1,5 @@
+{
+  "id": 1,
+  "index_base_url": "http://127.0.0.1:6060/",
+  "search_base_url": "http://127.0.0.1:6070/"
+}

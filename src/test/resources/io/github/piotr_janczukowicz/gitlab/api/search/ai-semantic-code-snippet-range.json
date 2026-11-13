@@ -1,0 +1,6 @@
+{
+  "start_line": 1,
+  "end_line": 1,
+  "content": "def authenticate\n  ...\nend",
+  "score": 1.5
+}

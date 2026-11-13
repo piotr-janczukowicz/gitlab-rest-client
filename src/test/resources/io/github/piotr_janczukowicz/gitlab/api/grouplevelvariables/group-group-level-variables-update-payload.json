@@ -1,0 +1,9 @@
+{
+  "value": "value",
+  "protected": true,
+  "masked": true,
+  "raw": true,
+  "variable_type": "env_var",
+  "environment_scope": "environment_scope",
+  "description": "description"
+}

@@ -1,0 +1,37 @@
+package io.github.piotr_janczukowicz.gitlab.api.groupintegrations;
+
+import com.fasterxml.jackson.annotation.JsonInclude;
+import io.github.piotr_janczukowicz.annotation.RecordBuilder;
+import io.github.piotr_janczukowicz.openapi.model.CatalogSchema;
+import org.jspecify.annotations.Nullable;
+
+/**
+ * Request body of the operation {@code putApiV4GroupsIdIntegrationsCampfire}.
+ *
+ * @param token the token
+ * @param subdomain the subdomain
+ * @param room the room
+ * @param pushEvents the push events
+ * @param useInheritedSettings the use inherited settings
+ */
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@RecordBuilder
+@CatalogSchema("operations/putApiV4GroupsIdIntegrationsCampfire/requestBody")
+public record GitLabGroupGroupIntegrationsCampfirePayload(
+        @Nullable String token,
+        @Nullable String subdomain,
+        @Nullable String room,
+        @Nullable Boolean pushEvents,
+        @Nullable Boolean useInheritedSettings) {
+    /**
+     * Describes this record without its secret.
+     *
+     * @return text with {@code token} redacted
+     */
+    @Override
+    public String toString() {
+        return "GitLabGroupGroupIntegrationsCampfirePayload[" + "token=<redacted>" + ", subdomain=" + subdomain
+                + ", room=" + room + ", pushEvents=" + pushEvents + ", useInheritedSettings=" + useInheritedSettings
+                + "]";
+    }
+}

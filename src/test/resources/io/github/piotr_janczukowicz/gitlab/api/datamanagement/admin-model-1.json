@@ -1,0 +1,14 @@
+{
+  "record_identifier": "text",
+  "model_class": "Project",
+  "created_at": "2026-01-01T00:00:00Z",
+  "file_size": 1,
+  "checksum_information": {
+    "checksum": "checksum",
+    "last_checksum": "2026-01-01T00:00:00Z",
+    "checksum_state": "checksum_state",
+    "checksum_retry_count": 1,
+    "checksum_retry_at": "2026-01-01T00:00:00Z",
+    "checksum_failure": "checksum_failure"
+  }
+}

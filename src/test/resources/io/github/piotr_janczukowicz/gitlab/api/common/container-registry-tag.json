@@ -1,0 +1,5 @@
+{
+  "name": "latest",
+  "path": "namespace1/project1/test_image_1:latest",
+  "location": "registry.dev/namespace1/project1/test_image_1:latest"
+}

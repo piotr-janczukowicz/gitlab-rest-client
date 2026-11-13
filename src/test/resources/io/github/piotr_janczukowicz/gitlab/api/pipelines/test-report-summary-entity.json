@@ -1,0 +1,35 @@
+{
+  "total": {
+    "key": "value"
+  },
+  "test_suites": [
+    {
+      "name": "test",
+      "total_time": 1,
+      "total_count": 1,
+      "success_count": 1,
+      "failed_count": 1,
+      "skipped_count": 1,
+      "error_count": 1,
+      "suite_error": "JUnit XML parsing failed: 1:1: FATAL: Document is empty",
+      "test_cases": [
+        {
+          "status": "success",
+          "name": "Security Reports can create an auto-remediation MR",
+          "classname": "vulnerability_management_spec",
+          "file": "./spec/test_spec.rb",
+          "execution_time": 1,
+          "system_output": "Failure/Error: is_expected.to eq(3)",
+          "stack_trace": "Failure/Error: is_expected.to eq(3)",
+          "recent_failures": {
+            "key": "value"
+          },
+          "attachment_url": "http://localhost/namespace1/project1/-/jobs/1/artifacts/file/some/path.png"
+        }
+      ],
+      "build_ids": [
+        1
+      ]
+    }
+  ]
+}

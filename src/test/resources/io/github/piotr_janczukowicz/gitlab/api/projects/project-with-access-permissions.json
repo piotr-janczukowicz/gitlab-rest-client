@@ -1,0 +1,10 @@
+{
+  "project_access": {
+    "access_level": "access_level",
+    "notification_level": "notification_level"
+  },
+  "group_access": {
+    "access_level": "access_level",
+    "notification_level": "notification_level"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ref": "develop",
+  "variables": [
+    {
+      "key": "UPLOAD_TO_S3",
+      "value": "true",
+      "variable_type": "env_var"
+    }
+  ],
+  "inputs": {
+    "key": "value"
+  }
+}

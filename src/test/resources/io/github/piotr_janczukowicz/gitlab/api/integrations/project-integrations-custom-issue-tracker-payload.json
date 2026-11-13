@@ -1,0 +1,7 @@
+{
+  "project_url": "project_url",
+  "issues_url": "issues_url",
+  "new_issue_url": "new_issue_url",
+  "push_events": true,
+  "use_inherited_settings": true
+}

@@ -1,0 +1,11 @@
+{
+  "variable_type": "env_var",
+  "key": "TEST_VARIABLE_1",
+  "value": "TEST_1",
+  "hidden": true,
+  "protected": true,
+  "masked": true,
+  "raw": true,
+  "environment_scope": "*",
+  "description": "This variable is being used for ..."
+}

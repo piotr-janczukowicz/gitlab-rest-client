@@ -1,0 +1,5 @@
+{
+  "certificate": "text",
+  "key": "text",
+  "auto_ssl_enabled": true
+}

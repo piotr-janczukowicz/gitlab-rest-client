@@ -1,0 +1,15 @@
+{
+  "codename": "codename",
+  "suite": "suite",
+  "origin": "origin",
+  "label": "label",
+  "version": "1.0-1",
+  "description": "description",
+  "valid_time_duration_seconds": 1,
+  "components": [
+    "components"
+  ],
+  "architectures": [
+    "architectures"
+  ]
+}

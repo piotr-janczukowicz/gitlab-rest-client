@@ -1,0 +1,7 @@
+{
+  "self": "http://example.com/api/v4/projects/1/issues/2",
+  "notes": "http://example.com/api/v4/projects/1/issues/2/notes",
+  "award_emoji": "http://example.com/api/v4/projects/1/issues/2/award_emoji",
+  "project": "http://example.com/api/v4/projects/1",
+  "closed_as_duplicate_of": "http://example.com/api/v4/projects/1/issues/75"
+}

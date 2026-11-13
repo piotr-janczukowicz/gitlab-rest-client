@@ -1,0 +1,7 @@
+{
+  "url": "url",
+  "client_cert": "client_cert",
+  "client_key": "client_key",
+  "ca_cert": "ca_cert",
+  "tls_host": "tls_host"
+}

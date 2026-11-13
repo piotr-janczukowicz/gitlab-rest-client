@@ -1,0 +1,9 @@
+{
+  "enable_ssl_verification": true,
+  "drone_url": "drone_url",
+  "token": "token",
+  "push_events": true,
+  "merge_requests_events": true,
+  "tag_push_events": true,
+  "use_inherited_settings": true
+}

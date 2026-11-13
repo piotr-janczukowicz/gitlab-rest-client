@@ -1,0 +1,118 @@
+{
+  "id": 1,
+  "project_id": 1,
+  "action_name": "closed",
+  "target_id": 1,
+  "target_iid": 1,
+  "target_type": "Issue",
+  "author_id": 1,
+  "target_title": "Public project search field",
+  "created_at": "2026-01-01T00:00:00Z",
+  "note": {
+    "id": 1,
+    "type": "DiscussionNote",
+    "body": "Note body.",
+    "author": {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root"
+    },
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z",
+    "system": true,
+    "noteable_id": 1,
+    "noteable_type": "Issue",
+    "project_id": 1,
+    "commit_id": "7b09ce7e6f80347baf0316c8c94cdba9a0a7e91d",
+    "position": {
+      "key": "value"
+    },
+    "resolvable": true,
+    "resolved": true,
+    "resolved_by": {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root"
+    },
+    "resolved_at": "2026-01-01T00:00:00Z",
+    "suggestions": [
+      {
+        "id": 1,
+        "from_line": 1,
+        "to_line": 1,
+        "appliable": true,
+        "applied": true,
+        "from_content": "Original content\n",
+        "to_content": "New content\n"
+      }
+    ],
+    "confidential": true,
+    "internal": true,
+    "imported": true,
+    "imported_from": "github",
+    "noteable_iid": 1,
+    "commands_changes": {
+      "key": "value"
+    }
+  },
+  "author": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "wiki_page": {
+    "format": "markdown",
+    "slug": "deploy",
+    "title": "deploy",
+    "wiki_page_meta_id": 1
+  },
+  "imported": true,
+  "imported_from": "none",
+  "push_data": {
+    "commit_count": 1,
+    "action": "pushed",
+    "ref_type": "branch",
+    "commit_from": "50d4420237a9de7be1304607147aec22e4a14af7",
+    "commit_to": "c5feabde2d8cd023215af4d2ceeb7a64839fc428",
+    "ref": "master",
+    "commit_title": "Add simple search to projects in public area",
+    "ref_count": 1
+  },
+  "author_username": "root"
+}

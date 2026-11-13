@@ -1,0 +1,7 @@
+{
+  "environment": "environment",
+  "sha": "sha",
+  "ref": "ref",
+  "tag": true,
+  "status": "running"
+}

@@ -1,0 +1,21 @@
+{
+  "icon": "status_success",
+  "text": "passed",
+  "label": "passed",
+  "group": "success",
+  "tooltip": "passed",
+  "has_details": true,
+  "details_path": "/test-group/test-project/-/pipelines/287",
+  "illustration": {
+    "key": "value"
+  },
+  "favicon": "/assets/ci_favicons/favicon_status_success.png",
+  "action": {
+    "icon": "cancel",
+    "title": "Cancel",
+    "path": "/namespace1/project1/-/jobs/2/cancel",
+    "method": "post",
+    "button_title": "Cancel this job",
+    "confirmation_message": "Are you sure?"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "agent_type": "claude-code",
+  "user_id": 1,
+  "status": "running",
+  "flow_type": "external_agent",
+  "glab_version": "glab 1.121.0 (abc1234)",
+  "agent_version": "2.1.295",
+  "sync_type": "hook",
+  "external_xid": "uuid",
+  "session_started_at": "2026-01-01T00:00:00Z",
+  "session_finished_at": "2026-01-01T00:00:00Z",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 1,
+  "description": "Test schedule pipeline",
+  "ref": "develop",
+  "cron": "* * * * *",
+  "cron_timezone": "Asia/Tokyo",
+  "next_run_at": "2026-01-01T00:00:00Z",
+  "active": true,
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "owner": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "inputs": [
+    {
+      "name": "name",
+      "value": "value"
+    }
+  ],
+  "last_pipeline": {
+    "id": 1,
+    "iid": 1,
+    "project_id": 1,
+    "sha": "0ec9e58fdfca6cdd6652c083c9edb53abc0bad52",
+    "ref": "feature-branch",
+    "status": "success",
+    "source": "push",
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z",
+    "web_url": "https://gitlab.example.com/gitlab-org/gitlab-foss/-/pipelines/61"
+  },
+  "variables": [
+    {
+      "variable_type": "env_var",
+      "key": "TEST_VARIABLE_1",
+      "value": "TEST_1",
+      "hidden": true,
+      "protected": true,
+      "masked": true,
+      "raw": true,
+      "environment_scope": "*",
+      "description": "This variable is being used for ..."
+    }
+  ]
+}

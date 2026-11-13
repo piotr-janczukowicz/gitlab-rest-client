@@ -1,0 +1,24 @@
+{
+  "required_approval_count": 1,
+  "deploy_access_levels": [
+    {
+      "user_id": 1,
+      "group_id": 1,
+      "group_inheritance_type": 0,
+      "id": 1,
+      "_destroy": true,
+      "access_level": 40
+    }
+  ],
+  "approval_rules": [
+    {
+      "user_id": 1,
+      "group_id": 1,
+      "group_inheritance_type": 0,
+      "id": 1,
+      "_destroy": true,
+      "access_level": 40,
+      "required_approvals": 1
+    }
+  ]
+}

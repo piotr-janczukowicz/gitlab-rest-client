@@ -1,0 +1,7 @@
+{
+  "package_name": "package_name",
+  "service_account_key_file_name": "service_account_key_file_name",
+  "service_account_key": "service_account_key",
+  "google_play_protected_refs": true,
+  "use_inherited_settings": true
+}

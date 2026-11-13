@@ -1,0 +1,50 @@
+{
+  "size": 1,
+  "references": {
+    "loose_count": 1,
+    "packed_size": 1,
+    "reference_backend": "reference_backend"
+  },
+  "objects": {
+    "size": 1,
+    "recent_size": 1,
+    "stale_size": 1,
+    "keep_size": 1,
+    "packfile_count": 1,
+    "reverse_index_count": 1,
+    "cruft_count": 1,
+    "keep_count": 1,
+    "loose_objects_count": 1,
+    "stale_loose_objects_count": 1,
+    "loose_objects_garbage_count": 1
+  },
+  "commit_graph": {
+    "commit_graph_chain_length": 1,
+    "has_bloom_filters": true,
+    "has_generation_data": true,
+    "has_generation_data_overflow": true
+  },
+  "bitmap": {
+    "has_hash_cache": true,
+    "has_lookup_table": true,
+    "version": 1
+  },
+  "multi_pack_index": {
+    "packfile_count": 1,
+    "version": 1
+  },
+  "multi_pack_index_bitmap": {
+    "has_hash_cache": true,
+    "has_lookup_table": true,
+    "version": 1
+  },
+  "alternates": {
+    "key": "value"
+  },
+  "is_object_pool": true,
+  "last_full_repack": {
+    "seconds": 1,
+    "nanos": 1
+  },
+  "updated_at": "2026-01-01T00:00:00Z"
+}

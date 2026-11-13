@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "agent_id": 1,
+  "url": "url",
+  "public_key": "public_key",
+  "client_cert": "client_cert",
+  "ca_cert": "ca_cert",
+  "tls_host": "tls_host"
+}

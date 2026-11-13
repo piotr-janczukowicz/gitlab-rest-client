@@ -1,0 +1,53 @@
+{
+  "with_labels_details": true,
+  "state": "opened",
+  "closed_by_id": 1,
+  "due_date": "",
+  "issue_type": "issue",
+  "labels": [
+    "labels"
+  ],
+  "milestone": "milestone",
+  "milestone_id": "Any",
+  "iids": [
+    1
+  ],
+  "search": "search",
+  "in": "in",
+  "author_id": 1,
+  "author_username": "author_username",
+  "assignee_id": "text",
+  "assignee_username": [
+    "assignee_username"
+  ],
+  "created_after": "2026-01-01T00:00:00Z",
+  "created_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "updated_before": "2026-01-01T00:00:00Z",
+  "not[labels]": [
+    "not[labels]"
+  ],
+  "not[milestone]": "not[milestone]",
+  "not[milestone_id]": "Any",
+  "not[iids]": [
+    1
+  ],
+  "not[author_id]": 1,
+  "not[author_username]": "not[author_username]",
+  "not[assignee_id]": 1,
+  "not[assignee_username]": [
+    "not[assignee_username]"
+  ],
+  "not[weight]": 1,
+  "not[iteration_id]": "text",
+  "not[iteration_title]": "not[iteration_title]",
+  "scope": "created-by-me",
+  "my_reaction_emoji": "my_reaction_emoji",
+  "confidential": true,
+  "weight": "text",
+  "epic_id": "text",
+  "health_status": "on_track",
+  "iteration_id": "text",
+  "iteration_title": "iteration_title",
+  "cursor": "cursor"
+}

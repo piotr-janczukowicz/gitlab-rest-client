@@ -1,0 +1,6 @@
+{
+  "api_url": "api_url",
+  "namespace": "namespace",
+  "authorization_type": "authorization_type",
+  "ca_cert": "ca_cert"
+}

@@ -1,0 +1,12 @@
+{
+  "credit_card_validated_at": "2026-01-01T00:00:00Z",
+  "credit_card_expiration_month": 1,
+  "credit_card_expiration_year": 1,
+  "credit_card_holder_name": "credit_card_holder_name",
+  "credit_card_mask_number": "credit_card_mask_number",
+  "credit_card_type": "credit_card_type",
+  "zuora_payment_method_xid": "zuora_payment_method_xid",
+  "stripe_setup_intent_xid": "stripe_setup_intent_xid",
+  "stripe_payment_method_xid": "stripe_payment_method_xid",
+  "stripe_card_fingerprint": "stripe_card_fingerprint"
+}

@@ -1,0 +1,9 @@
+{
+  "closed_issues_url": "closed_issues_url",
+  "closed_merge_requests_url": "closed_merge_requests_url",
+  "edit_url": "edit_url",
+  "merged_merge_requests_url": "merged_merge_requests_url",
+  "opened_issues_url": "opened_issues_url",
+  "opened_merge_requests_url": "opened_merge_requests_url",
+  "self": "self"
+}

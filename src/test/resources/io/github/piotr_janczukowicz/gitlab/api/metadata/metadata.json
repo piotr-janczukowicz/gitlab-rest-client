@@ -1,0 +1,12 @@
+{
+  "version": "15.2-pre",
+  "revision": "c401a659d0c",
+  "kas": {
+    "enabled": true,
+    "externalUrl": "grpc://gitlab.example.com:8150",
+    "externalK8sProxyUrl": "https://gitlab.example.com:8150/k8s-proxy",
+    "version": "15.0.0"
+  },
+  "enterprise": true,
+  "plan": "ultimate"
+}

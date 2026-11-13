@@ -1,0 +1,10 @@
+{
+  "created_at": "2026-01-01T00:00:00Z",
+  "unlink_path": "unlink_path",
+  "group": {
+    "name": "name",
+    "avatar_url": "avatar_url",
+    "full_name": "full_name",
+    "description": "description"
+  }
+}

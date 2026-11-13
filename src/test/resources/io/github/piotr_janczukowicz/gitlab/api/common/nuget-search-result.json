@@ -1,0 +1,22 @@
+{
+  "@type": "Package",
+  "id": "MyNuGetPkg",
+  "title": "MyNuGetPkg",
+  "totalDownloads": 1,
+  "verified": true,
+  "version": "1.3.0.17",
+  "versions": [
+    {
+      "@id": "https://gitlab.example.com/api/v4/projects/1/packages/nuget/metadata/MyNuGetPkg/1.3.0.17.json",
+      "version": "1.3.0.17",
+      "downloads": 1
+    }
+  ],
+  "tags": "tag#1 tag#2",
+  "authors": "Authors",
+  "description": "Description",
+  "summary": "Description",
+  "projectUrl": "http://sandbox.com/project",
+  "licenseUrl": "http://sandbox.com/license",
+  "iconUrl": "http://sandbox.com/icon"
+}

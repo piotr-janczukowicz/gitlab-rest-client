@@ -1,0 +1,264 @@
+{
+  "id": 1,
+  "name": "deploy",
+  "slug": "deploy",
+  "external_url": "https://deploy.gitlab.example.com",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "tier": "development",
+  "project": {
+    "id": 1,
+    "description": "desc",
+    "name": "project1",
+    "name_with_namespace": "John Doe / project1",
+    "path": "project1",
+    "path_with_namespace": "namespace1/project1",
+    "created_at": "2026-01-01T00:00:00Z",
+    "default_branch": "main",
+    "tag_list": [
+      "tag"
+    ],
+    "topics": [
+      "topic"
+    ],
+    "ssh_url_to_repo": "git@gitlab.example.com:gitlab/gitlab.git",
+    "http_url_to_repo": "https://gitlab.example.com/gitlab/gitlab.git",
+    "web_url": "https://gitlab.example.com/gitlab/gitlab",
+    "readme_url": "https://gitlab.example.com/gitlab/gitlab/blob/master/README.md",
+    "forks_count": 1,
+    "license_url": "https://gitlab.example.com/gitlab/gitlab/blob/master/LICENCE",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "nickname": "GNU GPLv3",
+      "html_url": "http://choosealicense.com/licenses/gpl-3.0",
+      "source_url": "source_url"
+    },
+    "avatar_url": "http://example.com/uploads/project/avatar/3/uploads/avatar.png",
+    "star_count": 1,
+    "last_activity_at": "2026-01-01T00:00:00Z",
+    "visibility": "public",
+    "namespace": {
+      "id": 1,
+      "name": "project",
+      "path": "my_project",
+      "kind": "project",
+      "full_path": "group/my_project",
+      "parent_id": 1,
+      "avatar_url": "https://example.com/avatar/12345",
+      "web_url": "https://example.com/group/my_project"
+    },
+    "custom_attributes": {
+      "key": "foo",
+      "value": "bar"
+    },
+    "repository_storage": "default"
+  },
+  "last_deployment": {
+    "id": 1,
+    "iid": 1,
+    "ref": "main",
+    "sha": "99d03678b90d914dbb1b109132516d71a4a03ea8",
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z",
+    "user": {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root"
+    },
+    "environment": {
+      "id": 1,
+      "name": "deploy",
+      "slug": "deploy",
+      "external_url": "https://deploy.gitlab.example.com",
+      "created_at": "2026-01-01T00:00:00Z",
+      "updated_at": "2026-01-01T00:00:00Z"
+    },
+    "deployable": {
+      "id": 1,
+      "status": "waiting_for_resource",
+      "stage": "deploy",
+      "name": "deploy_to_production",
+      "ref": "main",
+      "tag": true,
+      "coverage": 1.5,
+      "allow_failure": true,
+      "created_at": "2026-01-01T00:00:00Z",
+      "started_at": "2026-01-01T00:00:00Z",
+      "finished_at": "2026-01-01T00:00:00Z",
+      "erased_at": "2026-01-01T00:00:00Z",
+      "duration": 1.5,
+      "queued_duration": 1.5,
+      "user": {
+        "id": 1,
+        "username": "admin",
+        "public_email": "john@example.com",
+        "name": "Administrator",
+        "state": "active",
+        "locked": true,
+        "avatar_url": "https://gravatar.com/avatar/1",
+        "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+        "custom_attributes": [
+          {
+            "key": "foo",
+            "value": "bar"
+          }
+        ],
+        "web_url": "https://gitlab.example.com/root",
+        "created_at": "2026-01-01T00:00:00Z",
+        "bio": "bio",
+        "location": "location",
+        "linkedin": "linkedin",
+        "twitter": "twitter",
+        "discord": "discord",
+        "website_url": "website_url",
+        "github": "github",
+        "job_title": "job_title",
+        "pronouns": "pronouns",
+        "organization": "organization",
+        "bot": true,
+        "work_information": "work_information",
+        "followers": 1,
+        "following": 1,
+        "is_followed": true,
+        "local_time": "local_time"
+      },
+      "commit": {
+        "id": "2695effb5807a22ff3d138d593fd856244e155e7",
+        "short_id": "2695effb",
+        "created_at": "2026-01-01T00:00:00Z",
+        "parent_ids": [
+          "2a4b78934375d7f53875269ffd4f45fd83a84ebe"
+        ],
+        "title": "Initial commit",
+        "message": "Initial commit",
+        "author_name": "John Smith",
+        "author_email": "john@example.com",
+        "authored_date": "2026-01-01T00:00:00Z",
+        "committer_name": "Jack Smith",
+        "committer_email": "jack@example.com",
+        "committed_date": "2026-01-01T00:00:00Z",
+        "trailers": {
+          "key": "value"
+        },
+        "extended_trailers": {
+          "key": "value"
+        },
+        "web_url": "https://gitlab.example.com/janedoe/gitlab-foss/-/commit/ed899a2f4b50b4370feeea94676502b42383c746"
+      },
+      "pipeline": {
+        "id": 1,
+        "iid": 1,
+        "project_id": 1,
+        "sha": "0ec9e58fdfca6cdd6652c083c9edb53abc0bad52",
+        "ref": "feature-branch",
+        "status": "success",
+        "source": "push",
+        "created_at": "2026-01-01T00:00:00Z",
+        "updated_at": "2026-01-01T00:00:00Z",
+        "web_url": "https://gitlab.example.com/gitlab-org/gitlab-foss/-/pipelines/61"
+      },
+      "failure_reason": "script_failure",
+      "web_url": "https://example.com/foo/bar/-/jobs/1",
+      "project": {
+        "ci_job_token_scope_enabled": true
+      },
+      "artifacts_file": {
+        "filename": "artifacts.zip",
+        "size": 1
+      },
+      "artifacts": [
+        {
+          "file_type": "archive",
+          "size": 1,
+          "filename": "artifacts.zip",
+          "file_format": "raw"
+        }
+      ],
+      "runner": {
+        "id": 1,
+        "description": "test-1-20150125",
+        "ip_address": "127.0.0.1",
+        "active": true,
+        "paused": true,
+        "is_shared": true,
+        "runner_type": "instance_type",
+        "name": "test",
+        "online": true,
+        "created_by": {
+          "id": 1,
+          "username": "admin",
+          "public_email": "john@example.com",
+          "name": "Administrator",
+          "state": "active",
+          "locked": true,
+          "avatar_url": "https://gravatar.com/avatar/1",
+          "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+          "custom_attributes": [
+            {
+              "key": "foo",
+              "value": "bar"
+            }
+          ],
+          "web_url": "https://gitlab.example.com/root"
+        },
+        "created_at": "2026-01-01T00:00:00Z",
+        "status": "online",
+        "job_execution_status": "active"
+      },
+      "runner_manager": {
+        "id": 1,
+        "system_id": "runner-1",
+        "version": "16.11.0",
+        "revision": "91a27b2a",
+        "platform": "linux",
+        "architecture": "amd64",
+        "created_at": "2026-01-01T00:00:00Z",
+        "contacted_at": "2026-01-01T00:00:00Z",
+        "ip_address": "127.0.0.1",
+        "status": "online",
+        "job_execution_status": "active"
+      },
+      "artifacts_expire_at": "2026-01-01T00:00:00Z",
+      "archived": true,
+      "tag_list": [
+        "ubuntu18"
+      ]
+    },
+    "status": "created"
+  },
+  "state": "available",
+  "auto_stop_at": "2026-01-01T00:00:00Z",
+  "cluster_agent": {
+    "id": 1,
+    "name": "name",
+    "config_project": {
+      "id": 1,
+      "description": "desc",
+      "name": "project1",
+      "name_with_namespace": "John Doe / project1",
+      "path": "project1",
+      "path_with_namespace": "namespace1/project1",
+      "created_at": "2026-01-01T00:00:00Z"
+    },
+    "created_at": "2026-01-01T00:00:00Z",
+    "created_by_user_id": 1,
+    "is_receptive": true
+  },
+  "kubernetes_namespace": "kubernetes_namespace",
+  "flux_resource_path": "flux_resource_path",
+  "description": "description",
+  "auto_stop_setting": "always"
+}

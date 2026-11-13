@@ -1,0 +1,9 @@
+{
+  "external_url": "external_url",
+  "tier": "production",
+  "cluster_agent_id": 1,
+  "kubernetes_namespace": "kubernetes_namespace",
+  "flux_resource_path": "flux_resource_path",
+  "description": "description",
+  "auto_stop_setting": "always"
+}

@@ -1,0 +1,16 @@
+{
+  "scope": "running",
+  "status": "created",
+  "ref": "ref",
+  "sha": "sha",
+  "yaml_errors": true,
+  "username": "username",
+  "updated_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "created_before": "2026-01-01T00:00:00Z",
+  "created_after": "2026-01-01T00:00:00Z",
+  "order_by": "id",
+  "sort": "asc",
+  "source": "unknown",
+  "name": "name"
+}

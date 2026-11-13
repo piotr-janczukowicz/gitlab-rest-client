@@ -1,0 +1,27 @@
+{
+  "url": "url",
+  "api_url": "api_url",
+  "jira_auth_type": 1,
+  "username": "username",
+  "password": "password",
+  "jira_issue_regex": "jira_issue_regex",
+  "jira_issue_prefix": "jira_issue_prefix",
+  "jira_issue_transition_id": "jira_issue_transition_id",
+  "issues_enabled": "issues_enabled",
+  "project_keys": [
+    "project_keys"
+  ],
+  "vulnerabilities_enabled": true,
+  "vulnerabilities_issuetype": "vulnerabilities_issuetype",
+  "project_key": "project_key",
+  "customize_jira_issue_enabled": true,
+  "jira_check_enabled": true,
+  "jira_exists_check_enabled": true,
+  "jira_assignee_check_enabled": true,
+  "jira_status_check_enabled": true,
+  "jira_allowed_statuses_as_string": "jira_allowed_statuses_as_string",
+  "comment_on_event_enabled": true,
+  "commit_events": true,
+  "merge_requests_events": true,
+  "use_inherited_settings": true
+}

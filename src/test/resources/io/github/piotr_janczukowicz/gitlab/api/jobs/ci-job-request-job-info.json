@@ -1,0 +1,23 @@
+{
+  "id": "id",
+  "name": "name",
+  "stage": "stage",
+  "tag_list": [
+    "docker"
+  ],
+  "pipeline_id": "pipeline_id",
+  "project_id": "project_id",
+  "project_name": "project_name",
+  "project_full_path": "project_full_path",
+  "namespace_id": "namespace_id",
+  "root_namespace_id": "root_namespace_id",
+  "organization_id": "organization_id",
+  "instance_id": "instance_id",
+  "instance_uuid": "instance_uuid",
+  "user_id": "user_id",
+  "scoped_user_id": "scoped_user_id",
+  "time_in_queue_seconds": "time_in_queue_seconds",
+  "project_jobs_running_on_instance_runners_count": "project_jobs_running_on_instance_runners_count",
+  "queue_size": "queue_size",
+  "queue_depth": "queue_depth"
+}

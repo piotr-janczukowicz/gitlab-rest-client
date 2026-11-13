@@ -1,0 +1,12 @@
+{
+  "start_date": "2026-01-01",
+  "seats": 1,
+  "max_seats_used": 1,
+  "plan_code": "plan_code",
+  "end_date": "2026-01-01",
+  "auto_renew": true,
+  "trial": true,
+  "trial_ends_on": "2026-01-01",
+  "trial_starts_on": "2026-01-01",
+  "trial_extension_type": 1
+}

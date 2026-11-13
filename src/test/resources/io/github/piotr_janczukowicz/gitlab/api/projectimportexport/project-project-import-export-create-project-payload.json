@@ -1,0 +1,10 @@
+{
+  "description": "description",
+  "upload": {
+    "url": "url",
+    "http_method": "PUT"
+  },
+  "excluded_relations": [
+    "excluded_relations"
+  ]
+}

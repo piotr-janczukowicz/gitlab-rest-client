@@ -1,0 +1,13 @@
+{
+  "description": "description",
+  "active": true,
+  "paused": true,
+  "tag_list": [
+    "tag_list"
+  ],
+  "run_untagged": true,
+  "locked": true,
+  "access_level": "not_protected",
+  "maximum_timeout": 1,
+  "maintenance_note": "maintenance_note"
+}

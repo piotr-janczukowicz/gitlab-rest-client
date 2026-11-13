@@ -1,0 +1,79 @@
+{
+  "id": "6a9c1750b37d513a43987b574953fceb50b03ce7",
+  "individual_note": true,
+  "resolvable": true,
+  "resolved": true,
+  "notes": [
+    {
+      "id": 1,
+      "type": "DiscussionNote",
+      "body": "Note body.",
+      "author": {
+        "id": 1,
+        "username": "admin",
+        "public_email": "john@example.com",
+        "name": "Administrator",
+        "state": "active",
+        "locked": true,
+        "avatar_url": "https://gravatar.com/avatar/1",
+        "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+        "custom_attributes": [
+          {
+            "key": "foo",
+            "value": "bar"
+          }
+        ],
+        "web_url": "https://gitlab.example.com/root"
+      },
+      "created_at": "2026-01-01T00:00:00Z",
+      "updated_at": "2026-01-01T00:00:00Z",
+      "system": true,
+      "noteable_id": 1,
+      "noteable_type": "Issue",
+      "project_id": 1,
+      "commit_id": "7b09ce7e6f80347baf0316c8c94cdba9a0a7e91d",
+      "position": {
+        "key": "value"
+      },
+      "resolvable": true,
+      "resolved": true,
+      "resolved_by": {
+        "id": 1,
+        "username": "admin",
+        "public_email": "john@example.com",
+        "name": "Administrator",
+        "state": "active",
+        "locked": true,
+        "avatar_url": "https://gravatar.com/avatar/1",
+        "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+        "custom_attributes": [
+          {
+            "key": "foo",
+            "value": "bar"
+          }
+        ],
+        "web_url": "https://gitlab.example.com/root"
+      },
+      "resolved_at": "2026-01-01T00:00:00Z",
+      "suggestions": [
+        {
+          "id": 1,
+          "from_line": 1,
+          "to_line": 1,
+          "appliable": true,
+          "applied": true,
+          "from_content": "Original content\n",
+          "to_content": "New content\n"
+        }
+      ],
+      "confidential": true,
+      "internal": true,
+      "imported": true,
+      "imported_from": "github",
+      "noteable_iid": 1,
+      "commands_changes": {
+        "key": "value"
+      }
+    }
+  ]
+}

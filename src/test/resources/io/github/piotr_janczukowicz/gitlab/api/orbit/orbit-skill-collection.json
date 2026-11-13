@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "name": "orbit",
+      "version": "0.29.0",
+      "compatibility": "Orbit CLI",
+      "description": "Use the glab orbit CLI."
+    }
+  ],
+  "server_version": "0.31.0"
+}

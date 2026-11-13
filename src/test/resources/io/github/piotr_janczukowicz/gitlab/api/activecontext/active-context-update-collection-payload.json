@@ -1,0 +1,5 @@
+{
+  "queue_shard_count": 1,
+  "queue_shard_limit": 1,
+  "connection_id": 1
+}

@@ -1,0 +1,16 @@
+{
+  "description": "Test schedule pipeline",
+  "ref": "develop",
+  "cron": "* * * * *",
+  "cron_timezone": "Asia/Tokyo",
+  "active": true,
+  "inputs": [
+    {
+      "name": "deploy_strategy",
+      "destroy": true,
+      "value": [
+        "value"
+      ]
+    }
+  ]
+}

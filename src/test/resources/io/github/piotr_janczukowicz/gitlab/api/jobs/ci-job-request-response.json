@@ -1,0 +1,140 @@
+{
+  "id": "id",
+  "token": "token",
+  "allow_git_fetch": "allow_git_fetch",
+  "job_info": {
+    "id": "id",
+    "name": "name",
+    "stage": "stage",
+    "tag_list": [
+      "docker"
+    ],
+    "pipeline_id": "pipeline_id",
+    "project_id": "project_id",
+    "project_name": "project_name",
+    "project_full_path": "project_full_path",
+    "namespace_id": "namespace_id",
+    "root_namespace_id": "root_namespace_id",
+    "organization_id": "organization_id",
+    "instance_id": "instance_id",
+    "instance_uuid": "instance_uuid",
+    "user_id": "user_id",
+    "scoped_user_id": "scoped_user_id",
+    "time_in_queue_seconds": "time_in_queue_seconds",
+    "project_jobs_running_on_instance_runners_count": "project_jobs_running_on_instance_runners_count",
+    "queue_size": "queue_size",
+    "queue_depth": "queue_depth"
+  },
+  "git_info": {
+    "repo_url": "repo_url",
+    "ref": "ref",
+    "sha": "sha",
+    "before_sha": "before_sha",
+    "ref_type": "ref_type",
+    "refspecs": "refspecs",
+    "depth": "depth",
+    "repo_object_format": "repo_object_format",
+    "protected": "protected"
+  },
+  "runner_info": {
+    "uuid": "uuid",
+    "timeout": "timeout",
+    "runner_session_url": "runner_session_url"
+  },
+  "inputs": "inputs",
+  "variables": "variables",
+  "steps": [
+    {
+      "name": "name",
+      "script": [
+        "script"
+      ],
+      "timeout": 1,
+      "when": "when",
+      "allow_failure": true
+    }
+  ],
+  "hooks": [
+    {
+      "name": "name",
+      "script": [
+        "script"
+      ]
+    }
+  ],
+  "image": {
+    "name": "name",
+    "entrypoint": "entrypoint",
+    "ports": [
+      {
+        "number": 1,
+        "protocol": "protocol",
+        "name": "name"
+      }
+    ],
+    "executor_opts": "executor_opts",
+    "pull_policy": "pull_policy"
+  },
+  "services": [
+    {
+      "name": "name",
+      "entrypoint": "entrypoint",
+      "ports": [
+        {
+          "number": 1,
+          "protocol": "protocol",
+          "name": "name"
+        }
+      ],
+      "executor_opts": "executor_opts",
+      "pull_policy": "pull_policy",
+      "alias": "alias",
+      "command": "command",
+      "variables": "variables"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "name",
+      "untracked": true,
+      "paths": [
+        "paths"
+      ],
+      "exclude": [
+        "exclude"
+      ],
+      "when": "when",
+      "expire_in": "expire_in",
+      "artifact_type": "artifact_type",
+      "artifact_format": "artifact_format"
+    }
+  ],
+  "cache": [
+    {
+      "key": "key",
+      "untracked": true,
+      "paths": [
+        "paths"
+      ],
+      "policy": "policy",
+      "when": "when",
+      "fallback_keys": [
+        "fallback_keys"
+      ]
+    }
+  ],
+  "credentials": [
+    {
+      "type": "type",
+      "url": "url",
+      "username": "username",
+      "password": "password"
+    }
+  ],
+  "features": "features",
+  "dependencies": "dependencies",
+  "run": "run",
+  "suspend_options": "suspend_options",
+  "secrets": "secrets",
+  "policy_options": "policy_options"
+}

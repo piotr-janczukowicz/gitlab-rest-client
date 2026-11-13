@@ -1,0 +1,19 @@
+{
+  "datadog_site": "datadog_site",
+  "api_url": "api_url",
+  "api_key": "api_key",
+  "datadog_ci_visibility": true,
+  "archive_trace_events": true,
+  "datadog_service": "datadog_service",
+  "datadog_env": "datadog_env",
+  "datadog_tags": "datadog_tags",
+  "pipeline_events": true,
+  "build_events": true,
+  "push_events": true,
+  "merge_requests_events": true,
+  "note_events": true,
+  "tag_push_events": true,
+  "subgroup_events": true,
+  "project_events": true,
+  "use_inherited_settings": true
+}

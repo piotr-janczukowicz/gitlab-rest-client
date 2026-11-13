@@ -1,0 +1,14 @@
+{
+  "message": "message",
+  "starts_at": "2026-01-01T00:00:00Z",
+  "ends_at": "2026-01-01T00:00:00Z",
+  "color": "color",
+  "font": "font",
+  "target_access_levels": [
+    10
+  ],
+  "target_path": "target_path",
+  "broadcast_type": "banner",
+  "dismissable": true,
+  "theme": "indigo"
+}

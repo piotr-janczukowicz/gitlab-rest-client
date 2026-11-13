@@ -1,0 +1,9 @@
+{
+  "reference": "packageTest/1.2.3@gitlab-org+conan/stable",
+  "revisions": [
+    {
+      "revision": "75151329520e7685dcf5da49ded2fec0",
+      "time": "2024-12-17T09:16:40.334Z"
+    }
+  ]
+}

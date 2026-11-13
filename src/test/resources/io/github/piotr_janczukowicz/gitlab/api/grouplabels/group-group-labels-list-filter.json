@@ -1,0 +1,8 @@
+{
+  "with_counts": true,
+  "include_ancestor_groups": true,
+  "include_descendant_groups": true,
+  "only_group_labels": true,
+  "search": "search",
+  "archived": true
+}

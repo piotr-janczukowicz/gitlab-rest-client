@@ -1,0 +1,7 @@
+{
+  "cn": "ldap-group-1",
+  "group_access": 1,
+  "provider": "ldapmain",
+  "filter": "id >= 500",
+  "member_role_id": 1
+}

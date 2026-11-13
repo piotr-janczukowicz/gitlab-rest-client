@@ -1,0 +1,6 @@
+{
+  "name": "name",
+  "email": "email",
+  "projects_limit": 1,
+  "can_create_group": true
+}

@@ -1,0 +1,8 @@
+{
+  "code": "code",
+  "name": "name",
+  "trial": true,
+  "auto_renew": true,
+  "upgradable": true,
+  "exclude_guests": true
+}

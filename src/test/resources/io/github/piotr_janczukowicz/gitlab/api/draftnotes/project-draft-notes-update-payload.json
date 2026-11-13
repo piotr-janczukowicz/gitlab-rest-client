@@ -1,0 +1,31 @@
+{
+  "note": "note",
+  "position": {
+    "base_sha": "base_sha",
+    "start_sha": "start_sha",
+    "head_sha": "head_sha",
+    "position_type": "text",
+    "new_path": "new_path",
+    "new_line": 1,
+    "old_path": "old_path",
+    "old_line": 1,
+    "width": 1,
+    "height": 1,
+    "x": 1,
+    "y": 1,
+    "line_range": {
+      "start": {
+        "line_code": "line_code",
+        "type": "type",
+        "old_line": 1,
+        "new_line": 1
+      },
+      "end": {
+        "line_code": "line_code",
+        "type": "type",
+        "old_line": 1,
+        "new_line": 1
+      }
+    }
+  }
+}

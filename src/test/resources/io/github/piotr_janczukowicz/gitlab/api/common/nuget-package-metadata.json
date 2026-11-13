@@ -1,0 +1,33 @@
+{
+  "@id": "https://gitlab.example.com/api/v4/projects/1/packages/nuget/metadata/MyNuGetPkg/1.3.0.17.json",
+  "packageContent": "https://gitlab.example.com/api/v4/projects/1/packages/nuget/download/MyNuGetPkg/1.3.0.17/helloworld.1.3.0.17.nupkg",
+  "catalogEntry": {
+    "@id": "https://gitlab.example.com/api/v4/projects/1/packages/nuget/metadata/MyNuGetPkg/1.3.0.17.json",
+    "dependencyGroups": [
+      {
+        "@id": "http://gitlab.com/Sandbox.App/1.0.0.json#dependencygroup",
+        "@type": "PackageDependencyGroup",
+        "targetFramework": "fwk test",
+        "dependencies": [
+          {
+            "@id": "http://gitlab.com/Sandbox.App/1.0.0.json#dependency",
+            "@type": "PackageDependency",
+            "id": "Dependency",
+            "range": "2.0.0"
+          }
+        ]
+      }
+    ],
+    "id": "MyNuGetPkg",
+    "version": "1.3.0.17",
+    "tags": "tag#1 tag#2",
+    "packageContent": "https://gitlab.example.com/api/v4/projects/1/packages/nuget/download/MyNuGetPkg/1.3.0.17/helloworld.1.3.0.17.nupkg",
+    "authors": "Authors",
+    "description": "Description",
+    "summary": "Description",
+    "projectUrl": "http://sandbox.com/project",
+    "licenseUrl": "http://sandbox.com/license",
+    "iconUrl": "http://sandbox.com/icon",
+    "published": "2023-05-08T17:23:25Z"
+  }
+}

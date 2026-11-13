@@ -1,0 +1,14 @@
+{
+  "token": "token",
+  "team_id": "team_id",
+  "api_app_id": "api_app_id",
+  "event": {
+    "key": "value"
+  },
+  "type": "type",
+  "event_id": "event_id",
+  "event_time": 1,
+  "authed_users": [
+    "authed_users"
+  ]
+}

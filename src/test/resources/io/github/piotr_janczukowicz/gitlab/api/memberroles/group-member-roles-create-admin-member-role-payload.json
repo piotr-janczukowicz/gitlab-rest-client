@@ -1,0 +1,10 @@
+{
+  "name": "name",
+  "description": "description",
+  "read_admin_cicd": true,
+  "read_admin_groups": true,
+  "read_admin_projects": true,
+  "read_admin_subscription": true,
+  "read_admin_monitoring": true,
+  "read_admin_users": true
+}

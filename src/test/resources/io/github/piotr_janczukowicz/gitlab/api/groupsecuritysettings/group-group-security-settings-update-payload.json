@@ -1,0 +1,6 @@
+{
+  "secret_push_protection_enabled": true,
+  "projects_to_exclude": [
+    1
+  ]
+}

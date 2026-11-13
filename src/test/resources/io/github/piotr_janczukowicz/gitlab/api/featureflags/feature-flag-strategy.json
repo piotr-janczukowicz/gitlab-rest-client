@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "name": "userWithId",
+  "parameters": "{\"userIds\": \"user1\"}",
+  "scopes": [
+    {
+      "id": 1,
+      "environment_scope": "production"
+    }
+  ],
+  "user_list": {
+    "id": 1,
+    "iid": 1,
+    "name": "user_list",
+    "user_xids": "user1,user2"
+  }
+}

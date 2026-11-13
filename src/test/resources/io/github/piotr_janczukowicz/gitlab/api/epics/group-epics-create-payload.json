@@ -1,0 +1,17 @@
+{
+  "title": "My Epic",
+  "description": "Epic description",
+  "color": "#1068bf",
+  "confidential": true,
+  "created_at": "2026-01-01T00:00:00Z",
+  "start_date": "2018-07-31",
+  "start_date_fixed": "2018-07-31",
+  "start_date_is_fixed": true,
+  "end_date": "2019-08-11",
+  "due_date_fixed": "2019-08-11",
+  "due_date_is_fixed": true,
+  "labels": [
+    "labels"
+  ],
+  "parent_id": 1
+}

@@ -1,0 +1,25 @@
+{
+  "content": "content",
+  "resource_type": "issue",
+  "resource_id": "text",
+  "referer_url": "referer_url",
+  "client_subscription_id": "client_subscription_id",
+  "with_clean_history": true,
+  "project_id": 1,
+  "current_file": {
+    "file_name": "file_name",
+    "content_above_cursor": "content_above_cursor",
+    "content_below_cursor": "content_below_cursor",
+    "selected_text": "selected_text"
+  },
+  "additional_context": [
+    {
+      "category": "file",
+      "id": "id",
+      "content": "content",
+      "metadata": {
+        "key": "value"
+      }
+    }
+  ]
+}

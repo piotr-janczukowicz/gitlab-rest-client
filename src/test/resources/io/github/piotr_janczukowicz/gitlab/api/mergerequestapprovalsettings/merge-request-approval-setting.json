@@ -1,0 +1,9 @@
+{
+  "allow_author_approval": true,
+  "allow_committer_approval": true,
+  "allow_overrides_to_approver_list_per_merge_request": true,
+  "retain_approvals_on_push": true,
+  "selective_code_owner_removals": true,
+  "require_password_to_approve": true,
+  "require_reauthentication_to_approve": true
+}

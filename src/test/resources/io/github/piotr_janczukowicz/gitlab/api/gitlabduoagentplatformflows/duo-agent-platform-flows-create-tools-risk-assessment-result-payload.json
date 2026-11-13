@@ -1,0 +1,14 @@
+{
+  "project_id": "project_id",
+  "merge_request_iid": 1,
+  "diff_sha": "0123456789abcdef0123456789abcdef01234567",
+  "workflow_id": 1,
+  "claims": [
+    {
+      "name": "name",
+      "value": "value",
+      "evidence": "evidence"
+    }
+  ],
+  "summary": "summary"
+}

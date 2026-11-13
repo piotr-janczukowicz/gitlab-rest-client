@@ -1,0 +1,8 @@
+{
+  "diffs": "diffs",
+  "mr_title": "mr_title",
+  "mr_description": "mr_description",
+  "files_content": {
+    "key": "value"
+  }
+}

@@ -1,0 +1,34 @@
+package io.github.piotr_janczukowicz.gitlab.api.grouplevelvariables;
+
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import io.github.piotr_janczukowicz.annotation.RecordBuilder;
+import io.github.piotr_janczukowicz.openapi.model.CatalogSchema;
+import org.jspecify.annotations.Nullable;
+
+/**
+ * Request body of the operation {@code postApiV4GroupsIdVariables}.
+ *
+ * @param key the key
+ * @param value the value
+ * @param protectedValue the protected
+ * @param maskedAndHidden the masked and hidden
+ * @param masked the masked
+ * @param raw the raw
+ * @param variableType the variable type
+ * @param environmentScope the environment scope
+ * @param description the description
+ */
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@RecordBuilder
+@CatalogSchema("operations/postApiV4GroupsIdVariables/requestBody")
+public record GitLabGroupGroupLevelVariablesCreatePayload(
+        @Nullable String key,
+        @Nullable String value,
+        @Nullable @JsonProperty("protected") Boolean protectedValue,
+        @Nullable Boolean maskedAndHidden,
+        @Nullable Boolean masked,
+        @Nullable Boolean raw,
+        @Nullable GitLabGroupGroupLevelVariablesCreateVariableType variableType,
+        @Nullable String environmentScope,
+        @Nullable String description) {}

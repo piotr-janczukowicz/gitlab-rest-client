@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "topic1",
+  "title": "Topic 1",
+  "description": "A description",
+  "total_projects_count": 1,
+  "organization_id": 1,
+  "avatar_url": "http://gitlab.example.com/uploads/topic/avatar/1/avatar.png"
+}

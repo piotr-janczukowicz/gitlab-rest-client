@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "codename": "sid",
+  "suite": "unstable",
+  "origin": "Grep",
+  "label": "grep.be",
+  "version": "12",
+  "description": "My description",
+  "valid_time_duration_seconds": 1,
+  "components": [
+    "main"
+  ],
+  "architectures": [
+    "amd64"
+  ]
+}

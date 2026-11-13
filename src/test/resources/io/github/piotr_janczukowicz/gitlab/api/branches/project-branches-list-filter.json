@@ -1,0 +1,6 @@
+{
+  "search": "search",
+  "regex": "regex",
+  "sort": "name_asc",
+  "page_token": "page_token"
+}

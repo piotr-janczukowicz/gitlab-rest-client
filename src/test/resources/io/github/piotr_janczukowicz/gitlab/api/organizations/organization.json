@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "uuid": "0192f8c2-1a2b-7cde-89ab-0123456789ab",
+  "name": "GitLab",
+  "path": "gitlab",
+  "description": "My description",
+  "visibility": "public",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "web_url": "https://example.com/o/gitlab/-/overview",
+  "avatar_url": "https://example.com/uploads/-/system/organizations/organization_detail/avatar/1/avatar.png"
+}

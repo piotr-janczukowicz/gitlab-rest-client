@@ -1,0 +1,27 @@
+{
+  "token": "token",
+  "system_id": "system_id",
+  "last_update": "last_update",
+  "info": {
+    "name": "name",
+    "version": "version",
+    "revision": "revision",
+    "platform": "platform",
+    "architecture": "architecture",
+    "executor": "executor",
+    "features": {
+      "key": "value"
+    },
+    "config": {
+      "gpus": "gpus"
+    },
+    "labels": {
+      "key": "value"
+    }
+  },
+  "session": {
+    "url": "url",
+    "certificate": "certificate",
+    "authorization": "authorization"
+  }
+}

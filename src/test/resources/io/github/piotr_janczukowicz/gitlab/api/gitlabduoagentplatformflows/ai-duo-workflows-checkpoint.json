@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "thread_ts": "thread_ts",
+  "parent_ts": "parent_ts",
+  "checkpoint_ns": "checkpoint_ns",
+  "checkpoint": {
+    "key": "value"
+  },
+  "compressed_checkpoint": "compressed_checkpoint",
+  "checkpoint_writes": [
+    {
+      "id": 1,
+      "thread_ts": "thread_ts",
+      "task": "task",
+      "idx": 1,
+      "channel": "channel",
+      "write_type": "write_type",
+      "data": "data"
+    }
+  ],
+  "current_thread": 1,
+  "metadata": {
+    "key": "value"
+  }
+}

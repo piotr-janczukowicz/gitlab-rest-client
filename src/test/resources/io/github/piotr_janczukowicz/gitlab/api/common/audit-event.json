@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "author_id": 1,
+  "entity_id": 1,
+  "entity_type": "entity_type",
+  "event_name": "event_name",
+  "details": {
+    "key": "value"
+  },
+  "created_at": "2026-01-01T00:00:00Z"
+}

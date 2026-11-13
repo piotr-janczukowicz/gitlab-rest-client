@@ -1,0 +1,10 @@
+{
+  "through_namespace": {
+    "id": 1,
+    "name": "name",
+    "full_path": "full_path"
+  },
+  "features": [
+    "features"
+  ]
+}

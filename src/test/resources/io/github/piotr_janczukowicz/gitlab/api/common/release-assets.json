@@ -1,0 +1,18 @@
+{
+  "count": 1,
+  "sources": [
+    {
+      "format": "zip",
+      "url": "https://gitlab.example.com/root/app/-/archive/v1.0/app-v1.0.zip"
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "name": "app-v1.0.dmg",
+      "url": "https://gitlab.example.com/root/app/-/jobs/688/artifacts/raw/bin/app-v1.0.dmg",
+      "direct_asset_url": "https://gitlab.example.com/root/app/-/releases/v1.0/downloads/app-v1.0.dmg",
+      "link_type": "other"
+    }
+  ]
+}

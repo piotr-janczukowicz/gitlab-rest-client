@@ -1,0 +1,9 @@
+{
+  "search": "search",
+  "skip_groups": [
+    1
+  ],
+  "with_shared": true,
+  "shared_visible_only": true,
+  "shared_min_access_level": 10
+}

@@ -1,0 +1,10 @@
+{
+  "key": "title",
+  "label": "Title",
+  "name": "title",
+  "field": "title",
+  "type": "dimension",
+  "parameters": {
+    "key": "value"
+  }
+}

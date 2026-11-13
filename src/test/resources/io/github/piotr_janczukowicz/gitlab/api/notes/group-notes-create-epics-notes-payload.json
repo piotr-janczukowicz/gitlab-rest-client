@@ -1,0 +1,7 @@
+{
+  "body": "body",
+  "confidential": true,
+  "internal": true,
+  "created_at": "2026-01-01T00:00:00Z",
+  "merge_request_diff_head_sha": "merge_request_diff_head_sha"
+}

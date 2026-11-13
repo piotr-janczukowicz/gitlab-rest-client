@@ -1,0 +1,32 @@
+{
+  "id": 1,
+  "web_url": "https://gitlab.example.com/group/project/-/automate/agent-sessions/42",
+  "project_id": 1,
+  "namespace_id": 1,
+  "agent_privileges": [
+    1
+  ],
+  "agent_privileges_names": [
+    "agent_privileges_names"
+  ],
+  "pre_approved_agent_privileges": [
+    1
+  ],
+  "pre_approved_agent_privileges_names": [
+    "pre_approved_agent_privileges_names"
+  ],
+  "workflow_definition": "workflow_definition",
+  "status": "status",
+  "summary": "summary",
+  "title": "title",
+  "allow_agent_to_request_user": true,
+  "image": "image",
+  "environment": "environment",
+  "ai_catalog_item_version_id": 1,
+  "workload": {
+    "key": "value"
+  },
+  "mcp_enabled": true,
+  "incremental_checkpoints_enabled": true,
+  "gitlab_url": "gitlab_url"
+}

@@ -1,0 +1,5 @@
+{
+  "key": "UPLOAD_TO_S3",
+  "value": "true",
+  "variable_type": "env_var"
+}

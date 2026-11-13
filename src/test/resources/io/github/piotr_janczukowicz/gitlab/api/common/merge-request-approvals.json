@@ -1,0 +1,85 @@
+{
+  "id": 1,
+  "iid": 1,
+  "project_id": 1,
+  "title": "Impedit et ut et dolores vero provident ullam est",
+  "description": "Repellendus impedit et vel velit dignissimos.",
+  "state": "closed",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "merge_status": "can_be_merged",
+  "approved": true,
+  "approvals_required": 1,
+  "approvals_left": 1,
+  "require_password_to_approve": true,
+  "approved_by": [
+    {
+      "user": {
+        "id": 1,
+        "username": "admin",
+        "public_email": "john@example.com",
+        "name": "Administrator",
+        "state": "active",
+        "locked": true,
+        "avatar_url": "https://gravatar.com/avatar/1",
+        "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+        "custom_attributes": [
+          {
+            "key": "foo",
+            "value": "bar"
+          }
+        ],
+        "web_url": "https://gitlab.example.com/root"
+      },
+      "approved_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "suggested_approvers": [
+    {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root"
+    }
+  ],
+  "approvers": [
+    {
+      "key": "value"
+    }
+  ],
+  "approver_groups": [
+    {
+      "key": "value"
+    }
+  ],
+  "user_has_approved": true,
+  "user_can_approve": true,
+  "approval_rules_left": [
+    {
+      "id": 1,
+      "name": "QA",
+      "rule_type": "regular"
+    }
+  ],
+  "has_approval_rules": true,
+  "merge_request_approvers_available": true,
+  "multiple_approval_rules_available": true,
+  "invalid_approvers_rules": [
+    {
+      "id": 1,
+      "name": "QA",
+      "rule_type": "regular"
+    }
+  ]
+}

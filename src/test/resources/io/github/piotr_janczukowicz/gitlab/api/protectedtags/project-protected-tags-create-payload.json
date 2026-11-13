@@ -1,0 +1,9 @@
+{
+  "name": "release-1-0",
+  "create_access_level": 30,
+  "allowed_to_create": [
+    {
+      "key": "value"
+    }
+  ]
+}

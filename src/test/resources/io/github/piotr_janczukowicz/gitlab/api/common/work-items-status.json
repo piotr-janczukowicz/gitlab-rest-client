@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "To do",
+  "icon_name": "status-neutral",
+  "color": "#737278",
+  "position": 1,
+  "description": "description",
+  "category": "triage"
+}

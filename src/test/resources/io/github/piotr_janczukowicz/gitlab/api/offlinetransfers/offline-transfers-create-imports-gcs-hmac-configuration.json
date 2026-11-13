@@ -1,0 +1,6 @@
+{
+  "google_storage_access_key_id": "google_storage_access_key_id",
+  "google_storage_secret_access_key": "google_storage_secret_access_key",
+  "region": "region",
+  "path_style": true
+}

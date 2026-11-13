@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "user": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "created_at": "2026-01-01T00:00:00Z",
+  "resource_type": "Issue",
+  "resource_id": 1,
+  "label": {
+    "id": 1,
+    "name": "bug",
+    "description": "Bug reported by user",
+    "text_color": "#FFFFFF",
+    "description_html": "<p>Bug reported by user</p>",
+    "color": "#FF0000",
+    "archived": true
+  },
+  "action": "add"
+}

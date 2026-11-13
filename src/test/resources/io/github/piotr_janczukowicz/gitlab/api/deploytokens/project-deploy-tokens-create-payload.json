@@ -1,0 +1,8 @@
+{
+  "name": "name",
+  "scopes": [
+    "read_repository"
+  ],
+  "expires_at": "2026-01-01T00:00:00Z",
+  "username": "username"
+}

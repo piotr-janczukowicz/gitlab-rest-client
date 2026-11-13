@@ -1,0 +1,22 @@
+{
+  "name": "My token",
+  "description": "A token used for k8s",
+  "expires_at": "2026-01-01",
+  "scopes": [
+    "api"
+  ],
+  "granular_scopes": [
+    {
+      "access": "personal_projects",
+      "permissions": [
+        "permissions"
+      ],
+      "project_ids": [
+        1
+      ],
+      "group_ids": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "statistics": true,
+  "with_custom_attributes": true,
+  "custom_attributes": {
+    "key": "value"
+  },
+  "license": true
+}

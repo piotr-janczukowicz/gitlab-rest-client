@@ -1,0 +1,15 @@
+{
+  "allowed_to_push": [
+    {
+      "access_level": 30
+    }
+  ],
+  "allow_force_push": true,
+  "allowed_to_merge": [
+    {
+      "access_level": 30
+    }
+  ],
+  "code_owner_approval_required": true,
+  "developer_can_initial_push": true
+}

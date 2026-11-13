@@ -1,0 +1,11 @@
+{
+  "action": "action",
+  "pull_request.number": 1,
+  "pull_request.head.ref": "pull_request.head.ref",
+  "pull_request.head.sha": "pull_request.head.sha",
+  "pull_request.head.repo.full_name": "pull_request.head.repo.full_name",
+  "pull_request.base.ref": "pull_request.base.ref",
+  "pull_request.base.sha": "pull_request.base.sha",
+  "pull_request.base.repo.full_name": "pull_request.base.repo.full_name",
+  "force": true
+}

@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "thread_ts": "thread_ts",
+  "parent_ts": "parent_ts",
+  "checkpoint_ns": "checkpoint_ns"
+}

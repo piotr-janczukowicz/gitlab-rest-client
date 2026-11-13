@@ -1,0 +1,21 @@
+{
+  "plan": {
+    "code": "code",
+    "name": "name",
+    "trial": true,
+    "auto_renew": true,
+    "upgradable": true,
+    "exclude_guests": true
+  },
+  "usage": {
+    "seats_in_subscription": 1,
+    "seats_in_use": 1,
+    "max_seats_used": 1,
+    "seats_owed": 1
+  },
+  "billing": {
+    "subscription_start_date": "2026-01-01",
+    "subscription_end_date": "2026-01-01",
+    "trial_ends_on": "2026-01-01"
+  }
+}

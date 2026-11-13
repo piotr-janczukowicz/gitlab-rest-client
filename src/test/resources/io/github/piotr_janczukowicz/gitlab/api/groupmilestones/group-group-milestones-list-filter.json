@@ -1,0 +1,18 @@
+{
+  "state": "active",
+  "iids": [
+    1
+  ],
+  "title": "title",
+  "search": "search",
+  "search_title": "search_title",
+  "include_parent_milestones": true,
+  "include_ancestors": true,
+  "updated_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "containing_date": "2026-01-01T00:00:00Z",
+  "start_date": "2026-01-01T00:00:00Z",
+  "end_date": "2026-01-01T00:00:00Z",
+  "sort": "due_date_asc",
+  "include_descendants": true
+}

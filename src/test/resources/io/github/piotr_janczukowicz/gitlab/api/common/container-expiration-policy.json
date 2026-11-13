@@ -1,0 +1,9 @@
+{
+  "cadence": "7d",
+  "enabled": true,
+  "keep_n": 1,
+  "older_than": "90d",
+  "name_regex": ".*",
+  "name_regex_keep": "name_regex_keep",
+  "next_run_at": "2026-01-01T00:00:00Z"
+}

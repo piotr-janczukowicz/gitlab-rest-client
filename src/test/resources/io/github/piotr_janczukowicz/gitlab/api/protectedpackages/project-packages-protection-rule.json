@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "project_id": 1,
+  "package_name_pattern": "flightjs/flight",
+  "package_type": "npm",
+  "minimum_access_level_for_delete": "owner",
+  "minimum_access_level_for_push": "maintainer"
+}

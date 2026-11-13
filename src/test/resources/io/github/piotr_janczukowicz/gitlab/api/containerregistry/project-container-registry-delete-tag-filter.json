@@ -1,0 +1,7 @@
+{
+  "name_regex_delete": "name_regex_delete",
+  "name_regex": "name_regex",
+  "name_regex_keep": "name_regex_keep",
+  "keep_n": 1,
+  "older_than": "older_than"
+}

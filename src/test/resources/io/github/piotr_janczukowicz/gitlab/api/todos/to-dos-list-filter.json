@@ -1,0 +1,8 @@
+{
+  "action": "assigned",
+  "author_id": 1,
+  "project_id": 1,
+  "group_id": 1,
+  "state": "pending",
+  "type": "Commit"
+}

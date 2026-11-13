@@ -1,0 +1,17 @@
+{
+  "runner_type": "instance_type",
+  "group_id": 1,
+  "project_id": 1,
+  "description": "description",
+  "maintenance_note": "maintenance_note",
+  "paused": true,
+  "locked": true,
+  "access_level": "not_protected",
+  "run_untagged": true,
+  "tag_list": [
+    "tag_list"
+  ],
+  "maximum_timeout": 1,
+  "token_expires_at": "2026-01-01T00:00:00Z",
+  "token_rotation_deadline": "2026-01-01T00:00:00Z"
+}

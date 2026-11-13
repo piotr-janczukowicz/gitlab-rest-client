@@ -1,0 +1,24 @@
+{
+  "tag_name": "tag_name",
+  "tag_message": "tag_message",
+  "name": "name",
+  "description": "description",
+  "ref": "ref",
+  "assets": {
+    "links": [
+      {
+        "name": "name",
+        "url": "url",
+        "direct_asset_path": "direct_asset_path",
+        "filepath": "filepath",
+        "link_type": "other"
+      }
+    ]
+  },
+  "milestones": [
+    "milestones"
+  ],
+  "milestone_ids": "text",
+  "released_at": "2026-01-01T00:00:00Z",
+  "legacy_catalog_publish": true
+}

@@ -1,0 +1,12 @@
+{
+  "key": "key",
+  "untracked": true,
+  "paths": [
+    "paths"
+  ],
+  "policy": "policy",
+  "when": "when",
+  "fallback_keys": [
+    "fallback_keys"
+  ]
+}

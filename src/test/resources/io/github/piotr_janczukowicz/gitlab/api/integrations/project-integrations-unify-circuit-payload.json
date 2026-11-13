@@ -1,0 +1,18 @@
+{
+  "webhook": "webhook",
+  "notify_only_broken_pipelines": true,
+  "notify_only_when_pipeline_status_changes": true,
+  "branches_to_be_notified": "branches_to_be_notified",
+  "push_events": true,
+  "issues_events": true,
+  "confidential_issues_events": true,
+  "work_item_events": true,
+  "confidential_work_item_events": true,
+  "merge_requests_events": true,
+  "note_events": true,
+  "confidential_note_events": true,
+  "tag_push_events": true,
+  "pipeline_events": true,
+  "wiki_page_events": true,
+  "use_inherited_settings": true
+}

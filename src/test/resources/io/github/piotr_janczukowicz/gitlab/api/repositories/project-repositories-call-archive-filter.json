@@ -1,0 +1,10 @@
+{
+  "sha": "sha",
+  "ref_type": "heads",
+  "format": "format",
+  "path": "path",
+  "include_lfs_blobs": true,
+  "exclude_paths": [
+    "exclude_paths"
+  ]
+}

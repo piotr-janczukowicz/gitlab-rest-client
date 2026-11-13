@@ -1,0 +1,9 @@
+{
+  "project_id": "1",
+  "namespace_id": "1",
+  "root_namespace_id": "1",
+  "ai_catalog_item_version_id": 1,
+  "client_type": "browser",
+  "user_selected_model_identifier": "claude_sonnet_4_5",
+  "detached": true
+}

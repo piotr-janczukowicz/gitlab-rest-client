@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "plan": "silver",
+  "created_at": "2026-01-01T00:00:00Z",
+  "starts_at": "2026-01-01",
+  "expires_at": "2026-01-01",
+  "historical_max": 1,
+  "maximum_user_count": 1,
+  "licensee": {
+    "key": "value"
+  },
+  "add_ons": {
+    "key": "value"
+  },
+  "expired": true,
+  "overage": 1,
+  "user_limit": 1,
+  "active_users": 1
+}

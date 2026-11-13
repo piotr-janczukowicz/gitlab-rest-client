@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "name": "Team Board",
+  "hide_backlog_list": true,
+  "hide_closed_list": true,
+  "group": {
+    "id": 1,
+    "web_url": "http://gitlab.example.com/groups/diaspora",
+    "name": "Diaspora"
+  },
+  "labels": [
+    {
+      "id": 1,
+      "name": "bug",
+      "description": "Bug reported by user",
+      "text_color": "#FFFFFF",
+      "description_html": "<p>Bug reported by user</p>",
+      "color": "#FF0000",
+      "archived": true
+    }
+  ],
+  "lists": [
+    {
+      "id": 1,
+      "label": {
+        "id": 1,
+        "name": "bug",
+        "description": "Bug reported by user",
+        "text_color": "#FFFFFF",
+        "description_html": "<p>Bug reported by user</p>",
+        "color": "#FF0000",
+        "archived": true
+      },
+      "position": 1,
+      "list_type": "backlog"
+    }
+  ]
+}

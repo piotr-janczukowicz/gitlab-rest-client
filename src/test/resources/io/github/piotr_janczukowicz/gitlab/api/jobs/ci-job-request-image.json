@@ -1,0 +1,13 @@
+{
+  "name": "name",
+  "entrypoint": "entrypoint",
+  "ports": [
+    {
+      "number": 1,
+      "protocol": "protocol",
+      "name": "name"
+    }
+  ],
+  "executor_opts": "executor_opts",
+  "pull_policy": "pull_policy"
+}

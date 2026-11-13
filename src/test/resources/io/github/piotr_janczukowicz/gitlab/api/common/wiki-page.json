@@ -1,0 +1,11 @@
+{
+  "format": "markdown",
+  "slug": "deploy",
+  "title": "deploy",
+  "wiki_page_meta_id": 1,
+  "content": "Here is an instruction how to deploy this project.",
+  "encoding": "UTF-8",
+  "front_matter": {
+    "key": "value"
+  }
+}

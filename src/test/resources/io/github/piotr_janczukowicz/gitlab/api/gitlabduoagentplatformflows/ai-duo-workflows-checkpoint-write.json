@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "thread_ts": "thread_ts",
+  "task": "task",
+  "idx": 1,
+  "channel": "channel",
+  "write_type": "write_type",
+  "data": "data"
+}

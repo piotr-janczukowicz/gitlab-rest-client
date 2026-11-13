@@ -1,0 +1,8 @@
+{
+  "access": "personal_projects",
+  "permissions": [
+    "read_job"
+  ],
+  "project_id": 1,
+  "group_id": 1
+}

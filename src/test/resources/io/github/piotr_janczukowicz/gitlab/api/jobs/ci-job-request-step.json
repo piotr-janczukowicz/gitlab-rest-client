@@ -1,0 +1,9 @@
+{
+  "name": "name",
+  "script": [
+    "script"
+  ],
+  "timeout": 1,
+  "when": "when",
+  "allow_failure": true
+}

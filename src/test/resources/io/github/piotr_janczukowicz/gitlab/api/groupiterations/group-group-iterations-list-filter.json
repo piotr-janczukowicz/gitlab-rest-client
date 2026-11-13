@@ -1,0 +1,11 @@
+{
+  "state": "opened",
+  "search": "search",
+  "in": [
+    "title"
+  ],
+  "include_ancestors": true,
+  "include_descendants": true,
+  "updated_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z"
+}

@@ -1,0 +1,10 @@
+{
+  "recipients": "recipients",
+  "notify_only_broken_pipelines": true,
+  "notify_only_when_pipeline_status_changes": true,
+  "notify_only_default_branch": true,
+  "branches_to_be_notified": "branches_to_be_notified",
+  "notify_child_pipelines": true,
+  "pipeline_events": true,
+  "use_inherited_settings": true
+}

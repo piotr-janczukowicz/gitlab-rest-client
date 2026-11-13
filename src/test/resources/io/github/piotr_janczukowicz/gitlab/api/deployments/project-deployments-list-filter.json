@@ -1,0 +1,10 @@
+{
+  "order_by": "id",
+  "sort": "asc",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "updated_before": "2026-01-01T00:00:00Z",
+  "finished_after": "2026-01-01T00:00:00Z",
+  "finished_before": "2026-01-01T00:00:00Z",
+  "environment": "environment",
+  "status": "created"
+}

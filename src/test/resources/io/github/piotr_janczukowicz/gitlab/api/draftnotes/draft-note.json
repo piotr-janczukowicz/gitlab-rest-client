@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "author_id": 1,
+  "merge_request_id": 1,
+  "resolve_discussion": true,
+  "discussion_id": "6a9c1750b37d513a43987b574953fceb50b03ce7",
+  "note": "This is a note",
+  "commit_id": "6104942438c14ec7bd21c6cd5bd995272b3faff6",
+  "line_code": "1c497fbb3a46b78edf0_2_4",
+  "position": {
+    "key": "value"
+  }
+}

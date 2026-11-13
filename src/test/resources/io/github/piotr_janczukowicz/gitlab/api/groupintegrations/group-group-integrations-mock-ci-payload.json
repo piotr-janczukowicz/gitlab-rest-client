@@ -1,0 +1,6 @@
+{
+  "enable_ssl_verification": true,
+  "mock_service_url": "mock_service_url",
+  "push_events": true,
+  "use_inherited_settings": true
+}

@@ -1,0 +1,11 @@
+{
+  "job_variables_attributes": [
+    {
+      "key": "foo",
+      "value": "bar"
+    }
+  ],
+  "job_inputs": {
+    "key": "value"
+  }
+}

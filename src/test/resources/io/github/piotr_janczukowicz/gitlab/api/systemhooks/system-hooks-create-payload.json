@@ -1,0 +1,27 @@
+{
+  "url": "http://example.com/hook",
+  "name": "name",
+  "description": "description",
+  "token": "token",
+  "signing_token": "signing_token",
+  "push_events": true,
+  "tag_push_events": true,
+  "merge_requests_events": true,
+  "repository_update_events": true,
+  "enable_ssl_verification": true,
+  "push_events_branch_filter": "push_events_branch_filter",
+  "branch_filter_strategy": "wildcard",
+  "custom_webhook_template": "custom_webhook_template",
+  "url_variables": [
+    {
+      "key": "token",
+      "value": "123"
+    }
+  ],
+  "custom_headers": [
+    {
+      "key": "X-Custom-Header",
+      "value": "value"
+    }
+  ]
+}
