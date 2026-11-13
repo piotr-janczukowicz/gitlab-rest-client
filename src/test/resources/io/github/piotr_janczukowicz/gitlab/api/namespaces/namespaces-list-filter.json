@@ -1,0 +1,7 @@
+{
+  "search": "search",
+  "owned_only": true,
+  "top_level_only": true,
+  "full_path_search": true,
+  "requested_hosted_plan": "requested_hosted_plan"
+}

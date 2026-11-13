@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "push_access_level": 30,
+  "merge_access_level": 30,
+  "allow_force_push": true,
+  "allowed_to_push": [
+    {
+      "key": "value"
+    }
+  ],
+  "unprotect_access_level": 30,
+  "allowed_to_merge": [
+    {
+      "key": "value"
+    }
+  ],
+  "allowed_to_unprotect": [
+    {
+      "key": "value"
+    }
+  ],
+  "code_owner_approval_required": true
+}

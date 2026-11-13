@@ -1,0 +1,22 @@
+{
+  "metrics": [
+    {
+      "key": "key",
+      "value": 1.5,
+      "timestamp": 1,
+      "step": 1
+    }
+  ],
+  "params": [
+    {
+      "key": "key",
+      "value": "value"
+    }
+  ],
+  "tags": [
+    {
+      "key": "key",
+      "value": "value"
+    }
+  ]
+}

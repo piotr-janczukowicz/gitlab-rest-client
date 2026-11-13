@@ -1,0 +1,10 @@
+{
+  "scope": "specific",
+  "type": "instance_type",
+  "paused": true,
+  "status": "active",
+  "tag_list": [
+    "tag_list"
+  ],
+  "version_prefix": "1.2"
+}

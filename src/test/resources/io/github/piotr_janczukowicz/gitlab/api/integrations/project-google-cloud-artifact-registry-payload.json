@@ -1,0 +1,6 @@
+{
+  "artifact_registry_project_id": "artifact_registry_project_id",
+  "artifact_registry_repositories": "artifact_registry_repositories",
+  "artifact_registry_location": "artifact_registry_location",
+  "use_inherited_settings": true
+}

@@ -1,0 +1,12 @@
+{
+  "personal_access_token": "personal_access_token",
+  "repo_id": 1,
+  "new_name": "new_name",
+  "target_namespace": "target_namespace",
+  "github_hostname": "github_hostname",
+  "optional_stages": {
+    "key": "value"
+  },
+  "timeout_strategy": "optimistic",
+  "pagination_limit": 1
+}

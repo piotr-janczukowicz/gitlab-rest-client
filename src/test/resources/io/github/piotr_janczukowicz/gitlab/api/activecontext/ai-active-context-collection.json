@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "gitlab_active_context_code",
+  "connection_id": 1,
+  "options": {
+    "key": "value"
+  },
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "name",
+  "approvals_required": 1,
+  "rule_type": "regular",
+  "users": [
+    1
+  ],
+  "user_ids": [
+    1
+  ],
+  "groups": [
+    1
+  ],
+  "group_ids": [
+    1
+  ],
+  "usernames": [
+    "usernames"
+  ],
+  "protected_branch_ids": [
+    1
+  ],
+  "applies_to_all_protected_branches": true,
+  "report_type": "code_coverage",
+  "coverage_minimum_threshold": 1.5,
+  "vulnerabilities_allowed": 1,
+  "scanners": [
+    "scanners"
+  ],
+  "severity_levels": [
+    "severity_levels"
+  ],
+  "vulnerability_states": [
+    "vulnerability_states"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "title": "Sample key 25",
+  "created_at": "2026-01-01T00:00:00Z",
+  "expires_at": "2026-01-01T00:00:00Z",
+  "last_used_at": "2026-01-01T00:00:00Z",
+  "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQDNJAkI3Wdf0r13c8a5pEExB2YowPWCSVzfZV22pNBc1CuEbyYLHpUyaD0GwpGvFdx2aP7lMEk35k6Rz3ccBF6jRaVJyhsn5VNnW92PMpBJ/P1UebhXwsFHdQf5rTt082cSxWuk61kGWRQtk4ozt/J2DF/dIUVaLvc+z4HomT41fQ==",
+  "usage_type": "auth",
+  "fingerprint": "4a:9d:64:15:ed:3a:e6:07:6e:89:36:b3:3b:03:05:d9",
+  "fingerprint_sha256": "Jrs3LD1Ji30xNLtTVf9NDCj7kkBgPBb2pjvTZ3HfIgU",
+  "projects_with_write_access": [
+    {
+      "id": 1,
+      "description": "desc",
+      "name": "project1",
+      "name_with_namespace": "John Doe / project1",
+      "path": "project1",
+      "path_with_namespace": "namespace1/project1",
+      "created_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "projects_with_readonly_access": [
+    {
+      "id": 1,
+      "description": "desc",
+      "name": "project1",
+      "name_with_namespace": "John Doe / project1",
+      "path": "project1",
+      "path_with_namespace": "namespace1/project1",
+      "created_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "can_push": true
+}

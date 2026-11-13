@@ -1,0 +1,20 @@
+{
+  "statistics": true,
+  "archived": true,
+  "skip_groups": [
+    1
+  ],
+  "all_available": true,
+  "visibility": "private",
+  "search": "search",
+  "owned": true,
+  "min_access_level": 10,
+  "top_level_only": true,
+  "marked_for_deletion_on": "2026-01-01",
+  "active": true,
+  "repository_storage": "repository_storage",
+  "with_custom_attributes": true,
+  "custom_attributes": {
+    "key": "value"
+  }
+}

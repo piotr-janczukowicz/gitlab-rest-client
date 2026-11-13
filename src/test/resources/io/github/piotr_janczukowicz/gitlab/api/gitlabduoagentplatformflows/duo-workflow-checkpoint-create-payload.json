@@ -1,0 +1,27 @@
+{
+  "thread_ts": "thread_ts",
+  "parent_ts": "parent_ts",
+  "checkpoint_ns": "checkpoint_ns",
+  "checkpoint": {
+    "key": "value"
+  },
+  "compressed_checkpoint": "compressed_checkpoint",
+  "metadata": {
+    "key": "value"
+  },
+  "model_metadata_json": "model_metadata_json",
+  "flow_metadata_json": "flow_metadata_json",
+  "current_thread": 1,
+  "channel_keys": [
+    "channel_keys"
+  ],
+  "channel_blobs": [
+    {
+      "channel": "channel",
+      "version": "version",
+      "write_type": "write_type",
+      "step_action": "conversation",
+      "data": "data"
+    }
+  ]
+}

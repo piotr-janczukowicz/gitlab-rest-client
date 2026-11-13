@@ -1,0 +1,8 @@
+{
+  "category": "file",
+  "id": "id",
+  "content": "content",
+  "metadata": {
+    "key": "value"
+  }
+}

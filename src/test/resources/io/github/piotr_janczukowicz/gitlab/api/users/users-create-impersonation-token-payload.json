@@ -1,0 +1,22 @@
+{
+  "name": "name",
+  "description": "description",
+  "expires_at": "2026-01-01",
+  "scopes": [
+    "scopes"
+  ],
+  "granular_scopes": [
+    {
+      "access": "personal_projects",
+      "permissions": [
+        "permissions"
+      ],
+      "project_ids": [
+        1
+      ],
+      "group_ids": [
+        1
+      ]
+    }
+  ]
+}

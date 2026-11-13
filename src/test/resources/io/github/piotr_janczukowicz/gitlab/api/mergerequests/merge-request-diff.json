@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "head_commit_sha": "1234abcd",
+  "base_commit_sha": "1234abcd",
+  "start_commit_sha": "1234abcd",
+  "created_at": "2026-01-01T00:00:00Z",
+  "merge_request_id": 1,
+  "state": "collected",
+  "real_size": "1",
+  "patch_id_sha": "1234abcd"
+}

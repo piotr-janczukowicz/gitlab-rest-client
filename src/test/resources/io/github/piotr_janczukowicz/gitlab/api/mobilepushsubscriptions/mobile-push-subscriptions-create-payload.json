@@ -1,0 +1,10 @@
+{
+  "device_token": "device_token",
+  "platform": "ios",
+  "apns_environment": "production",
+  "bundle_id": "bundle_id",
+  "device_name": "device_name",
+  "app_version": "app_version",
+  "locale": "locale",
+  "payload_mode": "full"
+}

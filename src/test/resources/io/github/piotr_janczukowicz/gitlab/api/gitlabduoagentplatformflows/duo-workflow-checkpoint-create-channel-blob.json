@@ -1,0 +1,7 @@
+{
+  "channel": "channel",
+  "version": "version",
+  "write_type": "write_type",
+  "step_action": "conversation",
+  "data": "data"
+}

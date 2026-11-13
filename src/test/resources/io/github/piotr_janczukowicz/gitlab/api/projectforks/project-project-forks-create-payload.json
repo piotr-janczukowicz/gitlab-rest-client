@@ -1,0 +1,11 @@
+{
+  "namespace": "gitlab",
+  "namespace_id": 1,
+  "namespace_path": "new_path/gitlab",
+  "path": "fork",
+  "name": "Fork",
+  "description": "Description",
+  "visibility": "private",
+  "mr_default_target_self": true,
+  "branches": "branches"
+}

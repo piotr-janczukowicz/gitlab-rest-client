@@ -1,0 +1,28 @@
+{
+  "valid": true,
+  "errors": [
+    "variables config should be a hash of key value pairs"
+  ],
+  "warnings": [
+    "jobs:job may allow multiple pipelines ..."
+  ],
+  "merged_yaml": "---\\n:another_test:\\n  :stage: test\\n\n          :script: echo 2\\n:test:\\n  :stage: test\\n  :script: echo 1\\n",
+  "includes": [
+    {
+      "type": "local",
+      "location": ".gitlab/ci/build-images.gitlab-ci.yml",
+      "blob": "https://gitlab.com/gitlab-org/gitlab/-/blob/e52d6d0246d7375291850e61f0abc101fbda9dc2/.gitlab/ci/build-images.gitlab-ci.yml",
+      "raw": "https://gitlab.com/gitlab-org/gitlab/-/raw/e52d6d0246d7375291850e61f0abc101fbda9dc2/.gitlab/ci/build-images.gitlab-ci.yml",
+      "extra": {
+        "key": "value"
+      },
+      "context_project": "gitlab-org/gitlab",
+      "context_sha": "e52d6d0246d7375291850e61f0abc101fbda9dc2"
+    }
+  ],
+  "jobs": [
+    {
+      "key": "value"
+    }
+  ]
+}

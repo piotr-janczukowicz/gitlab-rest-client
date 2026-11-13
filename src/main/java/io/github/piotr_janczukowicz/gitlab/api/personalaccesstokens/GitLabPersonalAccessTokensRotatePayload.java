@@ -1,0 +1,18 @@
+package io.github.piotr_janczukowicz.gitlab.api.personalaccesstokens;
+
+import com.fasterxml.jackson.annotation.JsonInclude;
+import io.github.piotr_janczukowicz.annotation.RecordBuilder;
+import io.github.piotr_janczukowicz.openapi.model.CatalogSchema;
+import java.time.LocalDate;
+import org.jspecify.annotations.Nullable;
+
+/**
+ * Request body of the operation {@code postApiV4PersonalAccessTokensIdRotate}.
+ *
+ * @param expiresAt the expires at
+ */
+@JsonInclude(JsonInclude.Include.NON_NULL)
+@RecordBuilder
+@CatalogSchema("operations/postApiV4PersonalAccessTokensIdRotate/requestBody")
+public record GitLabPersonalAccessTokensRotatePayload(
+        @Nullable LocalDate expiresAt) {}

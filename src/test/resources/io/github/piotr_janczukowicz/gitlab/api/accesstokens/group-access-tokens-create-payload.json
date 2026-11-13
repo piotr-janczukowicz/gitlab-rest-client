@@ -1,0 +1,9 @@
+{
+  "name": "My token",
+  "description": "A token used for k8s",
+  "expires_at": "2026-01-01",
+  "scopes": [
+    "api"
+  ],
+  "access_level": 10
+}

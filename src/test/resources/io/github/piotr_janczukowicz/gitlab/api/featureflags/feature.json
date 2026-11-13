@@ -1,0 +1,22 @@
+{
+  "name": "experimental_feature",
+  "state": "off",
+  "gates": [
+    {
+      "key": "percentage_of_actors",
+      "value": 1
+    }
+  ],
+  "definition": {
+    "name": "name",
+    "feature_issue_url": "feature_issue_url",
+    "introduced_by_url": "introduced_by_url",
+    "rollout_issue_url": "rollout_issue_url",
+    "milestone": "milestone",
+    "log_state_changes": true,
+    "type": "type",
+    "group": "group",
+    "default_enabled": true,
+    "intended_to_rollout_by": "intended_to_rollout_by"
+  }
+}

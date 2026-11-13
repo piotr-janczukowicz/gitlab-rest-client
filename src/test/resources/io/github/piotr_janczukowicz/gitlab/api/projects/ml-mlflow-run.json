@@ -1,0 +1,36 @@
+{
+  "info": {
+    "run_id": "run_id",
+    "run_uuid": "run_uuid",
+    "experiment_id": "experiment_id",
+    "start_time": 1,
+    "end_time": 1,
+    "run_name": "run_name",
+    "status": "FINISHED",
+    "artifact_uri": "artifact_uri",
+    "lifecycle_stage": "active",
+    "user_id": "user_id"
+  },
+  "data": {
+    "metrics": [
+      {
+        "key": "key",
+        "value": 1.5,
+        "timestamp": 1,
+        "step": 1
+      }
+    ],
+    "params": [
+      {
+        "key": "key",
+        "value": "value"
+      }
+    ],
+    "tags": [
+      {
+        "key": "key",
+        "value": "value"
+      }
+    ]
+  }
+}

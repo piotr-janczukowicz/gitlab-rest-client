@@ -1,0 +1,7 @@
+{
+  "secret_token": "secret_token",
+  "data": {
+    "gl_id": "gl_id",
+    "primary_repo": "primary_repo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "repo_url": "repo_url",
+  "ref": "ref",
+  "sha": "sha",
+  "before_sha": "before_sha",
+  "ref_type": "ref_type",
+  "refspecs": "refspecs",
+  "depth": "depth",
+  "repo_object_format": "repo_object_format",
+  "protected": "protected"
+}

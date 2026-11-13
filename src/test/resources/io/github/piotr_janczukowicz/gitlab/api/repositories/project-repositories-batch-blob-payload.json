@@ -1,0 +1,8 @@
+{
+  "files": [
+    {
+      "path": "app/models/user.rb",
+      "ref": "main"
+    }
+  ]
+}

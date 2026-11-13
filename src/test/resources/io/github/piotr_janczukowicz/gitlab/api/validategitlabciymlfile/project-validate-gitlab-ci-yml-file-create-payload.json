@@ -1,0 +1,6 @@
+{
+  "content": "content",
+  "dry_run": true,
+  "include_jobs": true,
+  "ref": "ref"
+}

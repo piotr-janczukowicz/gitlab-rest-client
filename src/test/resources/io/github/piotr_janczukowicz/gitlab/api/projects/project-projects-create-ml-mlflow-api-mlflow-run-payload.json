@@ -1,0 +1,11 @@
+{
+  "experiment_id": 1,
+  "start_time": 1,
+  "user_id": "user_id",
+  "tags": [
+    {
+      "key": "value"
+    }
+  ],
+  "run_name": "run_name"
+}

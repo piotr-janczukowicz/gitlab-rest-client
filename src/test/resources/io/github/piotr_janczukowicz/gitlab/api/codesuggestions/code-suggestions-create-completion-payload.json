@@ -1,0 +1,19 @@
+{
+  "current_file": {
+    "file_name": "file_name",
+    "content_above_cursor": "content_above_cursor",
+    "content_below_cursor": "content_below_cursor"
+  },
+  "intent": "completion",
+  "generation_type": "comment",
+  "stream": true,
+  "project_path": "namespace/project",
+  "user_instruction": "user_instruction",
+  "context": [
+    {
+      "type": "file",
+      "name": "name",
+      "content": "content"
+    }
+  ]
+}

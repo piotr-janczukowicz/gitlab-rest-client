@@ -1,0 +1,9 @@
+{
+  "ref": "ref",
+  "stage": "stage",
+  "name": "name",
+  "pipeline_id": 1,
+  "all": true,
+  "order_by": "id",
+  "sort": "asc"
+}

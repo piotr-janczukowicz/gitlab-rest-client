@@ -1,0 +1,7 @@
+{
+  "accept_compressed": true,
+  "checkpoint_ns": "checkpoint_ns",
+  "channels": [
+    "channels"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "BackfillHiddenOnMergeRequests",
+  "started_at": "2026-01-01T00:00:00Z",
+  "completed_at": "2026-01-01T00:00:00Z",
+  "completed": true,
+  "obsolete": true,
+  "migration_state": {
+    "key": "value"
+  }
+}

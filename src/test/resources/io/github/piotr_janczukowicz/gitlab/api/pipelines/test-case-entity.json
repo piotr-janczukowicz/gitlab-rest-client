@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "name": "Security Reports can create an auto-remediation MR",
+  "classname": "vulnerability_management_spec",
+  "file": "./spec/test_spec.rb",
+  "execution_time": 1,
+  "system_output": "Failure/Error: is_expected.to eq(3)",
+  "stack_trace": "Failure/Error: is_expected.to eq(3)",
+  "recent_failures": {
+    "key": "value"
+  },
+  "attachment_url": "http://localhost/namespace1/project1/-/jobs/1/artifacts/file/some/path.png"
+}

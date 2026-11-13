@@ -1,0 +1,6 @@
+{
+  "api_key": "api_key",
+  "restrict_to_branch": "restrict_to_branch",
+  "push_events": true,
+  "use_inherited_settings": true
+}

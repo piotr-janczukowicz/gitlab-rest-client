@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "name": "John Doe",
+  "revoked": true,
+  "created_at": "2026-01-01T00:00:00Z",
+  "description": "Token to manage api",
+  "scopes": [
+    "api"
+  ],
+  "user_id": 1,
+  "last_used_at": "2026-01-01T00:00:00Z",
+  "last_used_ips": [
+    "127.0.0.1"
+  ],
+  "granular_scopes": [
+    {
+      "access": "personal_projects",
+      "permissions": [
+        "read_job"
+      ],
+      "project_id": 1,
+      "group_id": 1
+    }
+  ],
+  "active": true,
+  "granular": true,
+  "expires_at": "2026-01-01T00:00:00Z",
+  "impersonation": "impersonation"
+}

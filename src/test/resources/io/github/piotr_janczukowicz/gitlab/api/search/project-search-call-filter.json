@@ -1,0 +1,22 @@
+{
+  "ref": "ref",
+  "state": "all",
+  "confidential": true,
+  "type": [
+    "type"
+  ],
+  "fields": [
+    "title"
+  ],
+  "num_context_lines": 1,
+  "regex": true,
+  "source_branch": "source_branch",
+  "target_branch": "target_branch",
+  "author_username": "author_username",
+  "label_name": [
+    "label_name"
+  ],
+  "not[source_branch]": "not[source_branch]",
+  "not[target_branch]": "not[target_branch]",
+  "not[author_username]": "not[author_username]"
+}

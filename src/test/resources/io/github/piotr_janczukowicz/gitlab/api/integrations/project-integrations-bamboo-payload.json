@@ -1,0 +1,9 @@
+{
+  "enable_ssl_verification": true,
+  "bamboo_url": "bamboo_url",
+  "build_key": "build_key",
+  "username": "username",
+  "password": "password",
+  "push_events": true,
+  "use_inherited_settings": true
+}

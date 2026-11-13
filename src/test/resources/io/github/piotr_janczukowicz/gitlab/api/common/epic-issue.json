@@ -1,0 +1,169 @@
+{
+  "id": 1,
+  "iid": 1,
+  "project_id": 1,
+  "title": "Impedit et ut et dolores vero provident ullam est",
+  "description": "Repellendus impedit et vel velit dignissimos.",
+  "state": "closed",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "closed_at": "2026-01-01T00:00:00Z",
+  "closed_by": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "labels": [
+    "bug"
+  ],
+  "milestone": {
+    "id": 1,
+    "iid": 1,
+    "project_id": 1,
+    "group_id": 1,
+    "title": "title",
+    "description": "description",
+    "state": "state",
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z",
+    "due_date": "due_date",
+    "start_date": "start_date",
+    "expired": true,
+    "web_url": "web_url"
+  },
+  "assignees": [
+    {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root"
+    }
+  ],
+  "author": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "type": "ISSUE",
+  "assignee": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "user_notes_count": 1,
+  "merge_requests_count": 1,
+  "upvotes": 1,
+  "downvotes": 1,
+  "start_date": "2026-01-01",
+  "due_date": "2026-01-01",
+  "confidential": true,
+  "discussion_locked": true,
+  "issue_type": "issue",
+  "web_url": "http://example.com/example/example/issues/14",
+  "time_stats": {
+    "time_estimate": 1,
+    "total_time_spent": 1,
+    "human_time_estimate": "3h 30m",
+    "human_total_time_spent": "1h"
+  },
+  "task_completion_status": {
+    "count": 1,
+    "completed_count": 1
+  },
+  "weight": 1,
+  "blocking_issues_count": 1,
+  "has_tasks": true,
+  "task_status": "2 of 4 tasks completed",
+  "_links": {
+    "self": "http://example.com/api/v4/projects/1/issues/2",
+    "notes": "http://example.com/api/v4/projects/1/issues/2/notes",
+    "award_emoji": "http://example.com/api/v4/projects/1/issues/2/award_emoji",
+    "project": "http://example.com/api/v4/projects/1",
+    "closed_as_duplicate_of": "http://example.com/api/v4/projects/1/issues/75"
+  },
+  "references": {
+    "short": "&6",
+    "relative": "&6",
+    "full": "test&6"
+  },
+  "severity": "UNKNOWN",
+  "subscribed": true,
+  "moved_to_id": 1,
+  "imported": true,
+  "imported_from": "github",
+  "service_desk_reply_to": "user@example.com",
+  "epic_iid": "epic_iid",
+  "epic": {
+    "id": 1,
+    "iid": 1,
+    "title": "title",
+    "url": "url",
+    "group_id": 1,
+    "human_readable_end_date": "human_readable_end_date",
+    "human_readable_timestamp": "human_readable_timestamp"
+  },
+  "iteration": {
+    "id": 1,
+    "iid": 1,
+    "sequence": 1,
+    "group_id": 1,
+    "title": "Iteration I",
+    "description": "Iteration description",
+    "state": 1,
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z",
+    "start_date": "2026-01-01",
+    "due_date": "2026-01-01",
+    "web_url": "https://gitlab.example.com/groups/gitlab-org/-/iterations/1"
+  },
+  "health_status": "health_status",
+  "epic_issue_id": 1,
+  "relative_position": 1
+}

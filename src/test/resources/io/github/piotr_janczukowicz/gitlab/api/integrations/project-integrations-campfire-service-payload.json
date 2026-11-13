@@ -1,0 +1,7 @@
+{
+  "token": "token",
+  "subdomain": "subdomain",
+  "room": "room",
+  "push_events": true,
+  "use_inherited_settings": true
+}

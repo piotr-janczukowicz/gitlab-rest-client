@@ -1,0 +1,9 @@
+{
+  "api_key": "api_key",
+  "user_key": "user_key",
+  "device": "device",
+  "priority": "priority",
+  "sound": "sound",
+  "push_events": true,
+  "use_inherited_settings": true
+}

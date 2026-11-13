@@ -1,0 +1,6 @@
+{
+  "token": "token",
+  "subdomain": "subdomain",
+  "push_events": true,
+  "use_inherited_settings": true
+}

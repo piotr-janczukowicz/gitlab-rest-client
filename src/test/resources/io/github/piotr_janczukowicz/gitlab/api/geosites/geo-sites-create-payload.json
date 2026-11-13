@@ -1,0 +1,26 @@
+{
+  "primary": true,
+  "enabled": true,
+  "name": "name",
+  "url": "url",
+  "internal_url": "internal_url",
+  "files_max_capacity": 1,
+  "repos_max_capacity": 1,
+  "verification_max_capacity": 1,
+  "container_repositories_max_capacity": 1,
+  "sync_object_storage": true,
+  "selective_sync_type": "selective_sync_type",
+  "selective_sync_shards": [
+    "selective_sync_shards"
+  ],
+  "selective_sync_namespace_ids": [
+    1
+  ],
+  "selective_sync_organization_ids": [
+    1
+  ],
+  "minimum_reverification_interval": 1,
+  "checksum_mismatch_report_threshold": 1,
+  "checksum_mismatch_self_heal_cooldown_minutes": 1,
+  "blob_download_timeout": 1
+}

@@ -1,0 +1,12 @@
+{
+  "id": "<cluster>:<partition_id>:<id/uuid>",
+  "partition": 1,
+  "job_class_name": "UsersDeleteUnconfirmedSecondaryEmails",
+  "table_name": "users",
+  "column_name": "id",
+  "status": "active",
+  "created_at": "2026-01-01T00:00:00Z",
+  "started_at": "2026-01-01T00:00:00Z",
+  "finished_at": "2026-01-01T00:00:00Z",
+  "on_hold_until": "2026-01-01T00:00:00Z"
+}

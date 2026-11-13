@@ -1,0 +1,7 @@
+{
+  "bitbucket_email": "bitbucket_email",
+  "bitbucket_api_token": "bitbucket_api_token",
+  "repo_path": "repo_path",
+  "target_namespace": "target_namespace",
+  "new_name": "new_name"
+}

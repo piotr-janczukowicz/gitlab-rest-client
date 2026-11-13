@@ -1,0 +1,231 @@
+package io.github.piotr_janczukowicz.gitlab.api.groups;
+
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.catchThrowable;
+import static org.assertj.core.api.SoftAssertions.assertSoftly;
+
+import io.github.piotr_janczukowicz.testsupport.UnitTest;
+import java.lang.reflect.RecordComponent;
+import java.time.Instant;
+import java.util.Arrays;
+import java.util.Map;
+import org.junit.jupiter.api.Test;
+
+@UnitTest
+class GitLabGroupGroupsListSamlUsersFilterTest {
+
+    @Test
+    void constructor_shouldAcceptNull_whenUsernameIsNullable() {
+        final GitLabGroupGroupsListSamlUsersFilterBuilder builder = GitLabGroupGroupsListSamlUsersFilterBuilder.builder(
+                        GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                                .username("username")
+                                .search("search")
+                                .active(true)
+                                .blocked(true)
+                                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                                .build())
+                .username(null);
+
+        final GitLabGroupGroupsListSamlUsersFilter built = builder.build();
+
+        assertThat(built.username()).isNull();
+    }
+
+    @Test
+    void constructor_shouldAcceptNull_whenSearchIsNullable() {
+        final GitLabGroupGroupsListSamlUsersFilterBuilder builder = GitLabGroupGroupsListSamlUsersFilterBuilder.builder(
+                        GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                                .username("username")
+                                .search("search")
+                                .active(true)
+                                .blocked(true)
+                                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                                .build())
+                .search(null);
+
+        final GitLabGroupGroupsListSamlUsersFilter built = builder.build();
+
+        assertThat(built.search()).isNull();
+    }
+
+    @Test
+    void constructor_shouldAcceptNull_whenActiveIsNullable() {
+        final GitLabGroupGroupsListSamlUsersFilterBuilder builder = GitLabGroupGroupsListSamlUsersFilterBuilder.builder(
+                        GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                                .username("username")
+                                .search("search")
+                                .active(true)
+                                .blocked(true)
+                                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                                .build())
+                .active(null);
+
+        final GitLabGroupGroupsListSamlUsersFilter built = builder.build();
+
+        assertThat(built.active()).isNull();
+    }
+
+    @Test
+    void constructor_shouldAcceptNull_whenBlockedIsNullable() {
+        final GitLabGroupGroupsListSamlUsersFilterBuilder builder = GitLabGroupGroupsListSamlUsersFilterBuilder.builder(
+                        GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                                .username("username")
+                                .search("search")
+                                .active(true)
+                                .blocked(true)
+                                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                                .build())
+                .blocked(null);
+
+        final GitLabGroupGroupsListSamlUsersFilter built = builder.build();
+
+        assertThat(built.blocked()).isNull();
+    }
+
+    @Test
+    void constructor_shouldAcceptNull_whenCreatedAfterIsNullable() {
+        final GitLabGroupGroupsListSamlUsersFilterBuilder builder = GitLabGroupGroupsListSamlUsersFilterBuilder.builder(
+                        GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                                .username("username")
+                                .search("search")
+                                .active(true)
+                                .blocked(true)
+                                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                                .build())
+                .createdAfter(null);
+
+        final GitLabGroupGroupsListSamlUsersFilter built = builder.build();
+
+        assertThat(built.createdAfter()).isNull();
+    }
+
+    @Test
+    void constructor_shouldAcceptNull_whenCreatedBeforeIsNullable() {
+        final GitLabGroupGroupsListSamlUsersFilterBuilder builder = GitLabGroupGroupsListSamlUsersFilterBuilder.builder(
+                        GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                                .username("username")
+                                .search("search")
+                                .active(true)
+                                .blocked(true)
+                                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                                .build())
+                .createdBefore(null);
+
+        final GitLabGroupGroupsListSamlUsersFilter built = builder.build();
+
+        assertThat(built.createdBefore()).isNull();
+    }
+
+    @Test
+    void constructor_shouldKeepEveryValue_whenAllAreGiven() {
+        final GitLabGroupGroupsListSamlUsersFilter value = GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                .username("username")
+                .search("search")
+                .active(true)
+                .blocked(true)
+                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                .build();
+
+        assertSoftly(softly -> {
+            softly.assertThat(value.username()).isEqualTo("username");
+            softly.assertThat(value.search()).isEqualTo("search");
+            softly.assertThat(value.active()).isEqualTo(true);
+            softly.assertThat(value.blocked()).isEqualTo(true);
+            softly.assertThat(value.createdAfter()).isEqualTo(Instant.parse("2026-01-01T00:00:00Z"));
+            softly.assertThat(value.createdBefore()).isEqualTo(Instant.parse("2026-01-01T00:00:00Z"));
+        });
+    }
+
+    @Test
+    void builder_shouldBuildTheSameRecord_whenTheSameValuesAreSet() {
+        final GitLabGroupGroupsListSamlUsersFilter original = GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                .username("username")
+                .search("search")
+                .active(true)
+                .blocked(true)
+                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                .build();
+
+        final GitLabGroupGroupsListSamlUsersFilter rebuilt =
+                GitLabGroupGroupsListSamlUsersFilterBuilder.builder(original).build();
+
+        assertThat(rebuilt).isEqualTo(original);
+    }
+
+    @Test
+    void components_shouldMatchTheSpecProperties() {
+        final String[] names = Arrays.stream(GitLabGroupGroupsListSamlUsersFilter.class.getRecordComponents())
+                .map(RecordComponent::getName)
+                .toArray(String[]::new);
+
+        assertThat(names).containsExactly("username", "search", "active", "blocked", "createdAfter", "createdBefore");
+    }
+
+    @Test
+    void empty_shouldHaveNoParameters() {
+        final GitLabGroupGroupsListSamlUsersFilter empty = GitLabGroupGroupsListSamlUsersFilter.empty();
+
+        final Map<String, String> query = empty.toQueryParameters();
+
+        assertThat(query).isEmpty();
+    }
+
+    @Test
+    void toQueryParameters_shouldHoldEveryGivenParameterUnderItsWireName() {
+        final GitLabGroupGroupsListSamlUsersFilter filter = GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                .username("username")
+                .search("search")
+                .active(true)
+                .blocked(true)
+                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                .build();
+
+        final Map<String, String> query = filter.toQueryParameters();
+
+        assertThat(query)
+                .containsExactly(
+                        Map.entry("username", "username"),
+                        Map.entry("search", "search"),
+                        Map.entry("active", "true"),
+                        Map.entry("blocked", "true"),
+                        Map.entry("created_after", "2026-01-01T00:00:00Z"),
+                        Map.entry("created_before", "2026-01-01T00:00:00Z"));
+    }
+
+    @Test
+    void toQueryParameters_shouldSkipNull_whenOnlyOneParameterIsSet() {
+        final GitLabGroupGroupsListSamlUsersFilter filter = GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                .username("username")
+                .build();
+
+        final Map<String, String> query = filter.toQueryParameters();
+
+        assertThat(query).containsExactly(Map.entry("username", "username"));
+    }
+
+    @Test
+    void toQueryParameters_shouldBeUnmodifiable_whenRead() {
+        final GitLabGroupGroupsListSamlUsersFilter filter = GitLabGroupGroupsListSamlUsersFilterBuilder.builder()
+                .username("username")
+                .search("search")
+                .active(true)
+                .blocked(true)
+                .createdAfter(Instant.parse("2026-01-01T00:00:00Z"))
+                .createdBefore(Instant.parse("2026-01-01T00:00:00Z"))
+                .build();
+        final Map<String, String> query = filter.toQueryParameters();
+
+        final Throwable thrown = catchThrowable(() -> query.put("extra", "value"));
+
+        assertThat(thrown).isInstanceOf(UnsupportedOperationException.class);
+    }
+}

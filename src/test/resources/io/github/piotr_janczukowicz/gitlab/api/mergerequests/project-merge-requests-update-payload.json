@@ -1,0 +1,31 @@
+{
+  "title": "title",
+  "target_branch": "target_branch",
+  "state_event": "close",
+  "discussion_locked": true,
+  "assignee_id": 1,
+  "assignee_ids": [
+    1
+  ],
+  "reviewer_ids": [
+    1
+  ],
+  "description": "description",
+  "labels": [
+    "labels"
+  ],
+  "add_labels": [
+    "add_labels"
+  ],
+  "remove_labels": [
+    "remove_labels"
+  ],
+  "milestone_id": 1,
+  "milestone": "milestone",
+  "remove_source_branch": true,
+  "allow_collaboration": true,
+  "allow_maintainer_to_push": true,
+  "squash": true,
+  "merge_after": "2026-01-01T00:00:00Z",
+  "approvals_before_merge": 1
+}

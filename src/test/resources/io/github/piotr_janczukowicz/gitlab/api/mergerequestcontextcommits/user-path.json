@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "username": "admin",
+  "public_email": "john@example.com",
+  "name": "Administrator",
+  "state": "active",
+  "locked": true,
+  "avatar_url": "https://gravatar.com/avatar/1",
+  "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+  "custom_attributes": [
+    {
+      "key": "foo",
+      "value": "bar"
+    }
+  ],
+  "web_url": "https://gitlab.example.com/root",
+  "status_tooltip_html": "status_tooltip_html",
+  "show_status": "show_status",
+  "availability": "availability",
+  "path": "path"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "master",
+  "commit": {
+    "id": "2695effb5807a22ff3d138d593fd856244e155e7",
+    "short_id": "2695effb",
+    "created_at": "2026-01-01T00:00:00Z",
+    "parent_ids": [
+      "2a4b78934375d7f53875269ffd4f45fd83a84ebe"
+    ],
+    "title": "Initial commit",
+    "message": "Initial commit",
+    "author_name": "John Smith",
+    "author_email": "john@example.com",
+    "authored_date": "2026-01-01T00:00:00Z",
+    "committer_name": "Jack Smith",
+    "committer_email": "jack@example.com",
+    "committed_date": "2026-01-01T00:00:00Z",
+    "trailers": {
+      "key": "value"
+    },
+    "extended_trailers": {
+      "key": "value"
+    },
+    "web_url": "https://gitlab.example.com/janedoe/gitlab-foss/-/commit/ed899a2f4b50b4370feeea94676502b42383c746"
+  },
+  "merged": true,
+  "protected": true,
+  "developers_can_push": true,
+  "developers_can_merge": true,
+  "can_push": true,
+  "default": true,
+  "web_url": "https://gitlab.example.com/Commit921/the-dude/-/tree/master"
+}

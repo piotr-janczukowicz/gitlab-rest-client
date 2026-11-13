@@ -1,0 +1,6 @@
+{
+  "package_name_pattern": "package_name_pattern",
+  "package_type": "cargo",
+  "minimum_access_level_for_delete": "owner",
+  "minimum_access_level_for_push": "maintainer"
+}

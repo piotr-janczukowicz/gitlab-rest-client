@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "url": "https://webhook.site",
+  "name": "Hook name",
+  "description": "Hook description",
+  "created_at": "2026-01-01T00:00:00Z",
+  "push_events": true,
+  "tag_push_events": true,
+  "merge_requests_events": true,
+  "repository_update_events": true,
+  "enable_ssl_verification": true,
+  "organization_id": 1,
+  "alert_status": "executable",
+  "disabled_until": "2026-01-01T00:00:00Z",
+  "url_variables": [
+    {
+      "key": "value"
+    }
+  ],
+  "push_events_branch_filter": "my-branch-*",
+  "branch_filter_strategy": "wildcard",
+  "custom_webhook_template": "{\"event\":\"{{object_kind}}\"}",
+  "custom_headers": [
+    {
+      "key": "value"
+    }
+  ],
+  "token_present": true,
+  "signing_token_present": true
+}

@@ -1,0 +1,13 @@
+{
+  "diff": "@@ -71,6 +71,8 @@\\n...",
+  "collapsed": true,
+  "too_large": true,
+  "new_path": "doc/update/5.4-to-6.0.md",
+  "old_path": "doc/update/5.4-to-6.0.md",
+  "a_mode": "100755",
+  "b_mode": "100644",
+  "new_file": true,
+  "renamed_file": true,
+  "deleted_file": true,
+  "generated_file": true
+}

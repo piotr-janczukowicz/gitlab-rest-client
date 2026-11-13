@@ -1,0 +1,9 @@
+{
+  "username": "username",
+  "token": "token",
+  "server": "server",
+  "push_events": true,
+  "merge_requests_events": true,
+  "tag_push_events": true,
+  "use_inherited_settings": true
+}

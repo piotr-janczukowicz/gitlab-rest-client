@@ -1,0 +1,14 @@
+{
+  "skip_groups": [
+    1
+  ],
+  "visibility": "private",
+  "search": "search",
+  "min_access_level": 10,
+  "order_by": "name",
+  "sort": "asc",
+  "with_custom_attributes": true,
+  "custom_attributes": {
+    "key": "value"
+  }
+}

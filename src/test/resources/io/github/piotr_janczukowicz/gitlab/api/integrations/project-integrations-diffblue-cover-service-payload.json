@@ -1,0 +1,6 @@
+{
+  "diffblue_license_key": "diffblue_license_key",
+  "diffblue_access_token_name": "diffblue_access_token_name",
+  "diffblue_access_token_secret": "diffblue_access_token_secret",
+  "use_inherited_settings": true
+}

@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "zoekt_shard_id": 1,
+  "zoekt_node_id": 1,
+  "namespace_id": 1,
+  "number_of_replicas_override": 1
+}

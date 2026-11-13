@@ -1,0 +1,8 @@
+{
+  "sha": "sha",
+  "content_ref": "content_ref",
+  "dry_run": true,
+  "include_jobs": true,
+  "ref": "ref",
+  "dry_run_ref": "dry_run_ref"
+}

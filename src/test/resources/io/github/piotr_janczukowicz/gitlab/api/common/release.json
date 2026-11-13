@@ -1,0 +1,106 @@
+{
+  "name": "Release v1.0",
+  "tag_name": "v1.0",
+  "description": "Finally released v1.0",
+  "created_at": "2026-01-01T00:00:00Z",
+  "released_at": "2026-01-01T00:00:00Z",
+  "upcoming_release": true,
+  "description_html": "description_html",
+  "author": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "commit": {
+    "id": "2695effb5807a22ff3d138d593fd856244e155e7",
+    "short_id": "2695effb",
+    "created_at": "2026-01-01T00:00:00Z",
+    "parent_ids": [
+      "2a4b78934375d7f53875269ffd4f45fd83a84ebe"
+    ],
+    "title": "Initial commit",
+    "message": "Initial commit",
+    "author_name": "John Smith",
+    "author_email": "john@example.com",
+    "authored_date": "2026-01-01T00:00:00Z",
+    "committer_name": "Jack Smith",
+    "committer_email": "jack@example.com",
+    "committed_date": "2026-01-01T00:00:00Z",
+    "trailers": {
+      "key": "value"
+    },
+    "extended_trailers": {
+      "key": "value"
+    },
+    "web_url": "https://gitlab.example.com/janedoe/gitlab-foss/-/commit/ed899a2f4b50b4370feeea94676502b42383c746"
+  },
+  "milestones": [
+    {
+      "id": 1,
+      "iid": 1,
+      "project_id": 1,
+      "group_id": "group_id",
+      "title": "title",
+      "description": "description",
+      "state": "state",
+      "created_at": "2026-01-01T00:00:00Z",
+      "updated_at": "2026-01-01T00:00:00Z",
+      "due_date": "due_date",
+      "start_date": "start_date",
+      "expired": true,
+      "web_url": "web_url",
+      "issue_stats": {
+        "total": 1,
+        "closed": 1
+      }
+    }
+  ],
+  "commit_path": "/root/app/commit/588440f66559714280628a4f9799f0c4eb880a4a",
+  "tag_path": "/root/app/-/tags/v1.0",
+  "assets": {
+    "count": 1,
+    "sources": [
+      {
+        "format": "zip",
+        "url": "https://gitlab.example.com/root/app/-/archive/v1.0/app-v1.0.zip"
+      }
+    ],
+    "links": [
+      {
+        "id": 1,
+        "name": "app-v1.0.dmg",
+        "url": "https://gitlab.example.com/root/app/-/jobs/688/artifacts/raw/bin/app-v1.0.dmg",
+        "direct_asset_url": "https://gitlab.example.com/root/app/-/releases/v1.0/downloads/app-v1.0.dmg",
+        "link_type": "other"
+      }
+    ]
+  },
+  "evidences": [
+    {
+      "sha": "760d6cdfb0879c3ffedec13af470e0f71cf52c6cde4d",
+      "filepath": "https://gitlab.example.com/root/app/-/releases/v1.0/evidence.json",
+      "collected_at": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "_links": {
+    "closed_issues_url": "closed_issues_url",
+    "closed_merge_requests_url": "closed_merge_requests_url",
+    "edit_url": "edit_url",
+    "merged_merge_requests_url": "merged_merge_requests_url",
+    "opened_issues_url": "opened_issues_url",
+    "opened_merge_requests_url": "opened_merge_requests_url",
+    "self": "self"
+  }
+}

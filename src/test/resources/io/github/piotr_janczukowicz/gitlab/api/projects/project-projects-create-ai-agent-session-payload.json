@@ -1,0 +1,11 @@
+{
+  "agent_type": "claude-code",
+  "agent_identity_id": 1,
+  "sync_type": "hook",
+  "goal": "goal",
+  "started_at": "2026-01-01T00:00:00Z",
+  "idempotency_key": "idempotency_key",
+  "workflow_definition": "workflow_definition",
+  "glab_version": "glab_version",
+  "agent_version": "agent_version"
+}

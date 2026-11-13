@@ -1,0 +1,10 @@
+{
+  "name": "latest",
+  "path": "namespace1/project1/test_image_1:latest",
+  "location": "registry.dev/namespace1/project1/test_image_1:latest",
+  "revision": "tagrevision",
+  "short_revision": "shortrevison",
+  "digest": "shadigest",
+  "created_at": "2026-01-01T00:00:00Z",
+  "total_size": 1
+}

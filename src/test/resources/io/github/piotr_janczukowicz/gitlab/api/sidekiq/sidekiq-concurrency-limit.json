@@ -1,0 +1,13 @@
+{
+  "worker_class": "AuthorizedProjectsWorker",
+  "class_limit": 1,
+  "effective_limit": 1,
+  "adaptive_limit": 1,
+  "default_limit_requires_shard_context": true,
+  "middleware_enabled": true,
+  "disabled_for_worker": true,
+  "override_limit": 1,
+  "override_ttl": 1,
+  "running_jobs": 1,
+  "deferred_jobs": 1
+}

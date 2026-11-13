@@ -1,0 +1,41 @@
+{
+  "bucket": "bucket",
+  "aws_s3_configuration": {
+    "aws_access_key_id": "aws_access_key_id",
+    "aws_secret_access_key": "aws_secret_access_key",
+    "region": "region",
+    "path_style": true
+  },
+  "s3_compatible_configuration": {
+    "aws_access_key_id": "aws_access_key_id",
+    "aws_secret_access_key": "aws_secret_access_key",
+    "region": "region",
+    "endpoint": "endpoint",
+    "path_style": true
+  },
+  "gcs_configuration": {
+    "google_project": "google_project",
+    "google_json_key_string": "google_json_key_string"
+  },
+  "gcs_hmac_configuration": {
+    "google_storage_access_key_id": "google_storage_access_key_id",
+    "google_storage_secret_access_key": "google_storage_secret_access_key",
+    "region": "region",
+    "path_style": true
+  },
+  "gcs_adc_configuration": {
+    "google_project": "google_project"
+  },
+  "export_prefix": "export_prefix",
+  "entities": [
+    {
+      "source_type": "group_entity",
+      "source_full_path": "source_full_path",
+      "destination_namespace": "destination_namespace",
+      "destination_slug": "destination_slug"
+    }
+  ],
+  "import_all": {
+    "destination_namespace": "destination-group/subgroup"
+  }
+}

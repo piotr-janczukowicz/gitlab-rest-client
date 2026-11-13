@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "enabled": true,
+  "url": "https://*****:*****@example.com/gitlab/example.git",
+  "update_status": "finished",
+  "last_update_at": "2026-01-01T00:00:00Z",
+  "last_update_started_at": "2026-01-01T00:00:00Z",
+  "last_successful_update_at": "2026-01-01T00:00:00Z",
+  "last_error": "The remote mirror URL is invalid.",
+  "only_protected_branches": true,
+  "keep_divergent_refs": true,
+  "auth_method": "password",
+  "host_keys": [
+    {
+      "fingerprint_sha256": "SHA256:abcd1234"
+    }
+  ],
+  "mirror_branch_regex": "feature-.*"
+}

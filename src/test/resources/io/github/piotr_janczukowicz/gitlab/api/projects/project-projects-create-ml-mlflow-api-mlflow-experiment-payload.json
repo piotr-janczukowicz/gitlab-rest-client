@@ -1,0 +1,9 @@
+{
+  "name": "name",
+  "tags": [
+    {
+      "key": "value"
+    }
+  ],
+  "artifact_location": "artifact_location"
+}

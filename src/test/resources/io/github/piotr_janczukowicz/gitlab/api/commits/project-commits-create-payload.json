@@ -1,0 +1,10 @@
+{
+  "state": "pending",
+  "ref": "develop",
+  "target_url": "https://gitlab.example.com/janedoe/gitlab-foss/builds/91",
+  "description": "description",
+  "name": "coverage",
+  "context": "coverage",
+  "coverage": 1.5,
+  "pipeline_id": 1
+}

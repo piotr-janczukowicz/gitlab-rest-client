@@ -1,0 +1,27 @@
+{
+  "username": "username",
+  "extern_uid": "extern_uid",
+  "public_email": "public_email",
+  "provider": "provider",
+  "search": "search",
+  "active": true,
+  "humans": true,
+  "external": true,
+  "blocked": true,
+  "created_after": "2026-01-01T00:00:00Z",
+  "created_before": "2026-01-01T00:00:00Z",
+  "without_projects": true,
+  "without_project_bots": true,
+  "admins": true,
+  "two_factor": "two_factor",
+  "exclude_active": true,
+  "exclude_external": true,
+  "exclude_humans": true,
+  "exclude_internal": true,
+  "with_custom_attributes": true,
+  "custom_attributes": {
+    "key": "value"
+  },
+  "skip_ldap": true,
+  "auditors": true
+}

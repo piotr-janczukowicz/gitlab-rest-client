@@ -1,0 +1,10 @@
+{
+  "enable_ssl_verification": true,
+  "teamcity_url": "teamcity_url",
+  "build_type": "build_type",
+  "username": "username",
+  "password": "password",
+  "push_events": true,
+  "merge_requests_events": true,
+  "use_inherited_settings": true
+}

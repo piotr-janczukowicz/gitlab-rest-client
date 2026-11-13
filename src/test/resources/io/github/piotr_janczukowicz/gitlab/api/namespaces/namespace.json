@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "name": "project",
+  "path": "my_project",
+  "kind": "project",
+  "full_path": "group/my_project",
+  "parent_id": 1,
+  "avatar_url": "https://example.com/avatar/12345",
+  "web_url": "https://example.com/group/my_project",
+  "members_count_with_descendants": 1,
+  "root_repository_size": 1,
+  "projects_count": 1,
+  "shared_runners_minutes_limit": 1,
+  "ci_minutes_usage": {
+    "total_minutes_used": 1,
+    "monthly_minutes_used": 1,
+    "purchased_minutes_used": 1
+  },
+  "extra_shared_runners_minutes_limit": 1,
+  "additional_purchased_storage_size": 1,
+  "additional_purchased_storage_ends_on": "2026-01-01",
+  "billable_members_count": 1,
+  "seats_in_use": 1,
+  "max_seats_used": 1,
+  "max_seats_used_changed_at": "2026-01-01",
+  "end_date": "2026-01-01",
+  "plan": "default",
+  "trial_ends_on": "2026-01-01",
+  "trial": true
+}

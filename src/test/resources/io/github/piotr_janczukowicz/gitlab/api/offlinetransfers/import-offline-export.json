@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "status": "created",
+  "source_hostname": "https://source.example.com/",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "has_failures": true,
+  "bucket": "gitlab-exports",
+  "export_prefix": "2012-05-28_04-42-42_export_ab12cd34"
+}

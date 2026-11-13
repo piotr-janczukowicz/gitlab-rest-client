@@ -1,0 +1,65 @@
+{
+  "author_id": 1,
+  "author_username": "author_username",
+  "assignee_id": 1,
+  "assignee_username": [
+    "assignee_username"
+  ],
+  "reviewer_username": "reviewer_username",
+  "labels": [
+    "labels"
+  ],
+  "milestone": "milestone",
+  "my_reaction_emoji": "my_reaction_emoji",
+  "reviewer_id": 1,
+  "state": "opened",
+  "order_by": "created_at",
+  "sort": "asc",
+  "with_labels_details": true,
+  "with_merge_status_recheck": true,
+  "created_after": "2026-01-01T00:00:00Z",
+  "created_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "updated_before": "2026-01-01T00:00:00Z",
+  "merged_after": "2026-01-01T00:00:00Z",
+  "merged_before": "2026-01-01T00:00:00Z",
+  "view": "simple",
+  "scope": "created-by-me",
+  "source_branch": "source_branch",
+  "source_project_id": 1,
+  "target_branch": "target_branch",
+  "search": "search",
+  "in": "in",
+  "wip": "yes",
+  "draft": true,
+  "not[author_id]": 1,
+  "not[author_username]": "not[author_username]",
+  "not[assignee_id]": 1,
+  "not[assignee_username]": [
+    "not[assignee_username]"
+  ],
+  "not[reviewer_username]": "not[reviewer_username]",
+  "not[labels]": [
+    "not[labels]"
+  ],
+  "not[milestone]": "not[milestone]",
+  "not[my_reaction_emoji]": "not[my_reaction_emoji]",
+  "not[reviewer_id]": 1,
+  "deployed_before": "2026-01-01T00:00:00Z",
+  "deployed_after": "2026-01-01T00:00:00Z",
+  "environment": "environment",
+  "merge_user_id": 1,
+  "merge_user_username": "merge_user_username",
+  "approver_ids": [
+    "approver_ids"
+  ],
+  "approved_by_ids": [
+    "approved_by_ids"
+  ],
+  "approved_by_usernames": [
+    "approved_by_usernames"
+  ],
+  "iids": [
+    1
+  ]
+}

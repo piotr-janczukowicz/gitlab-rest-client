@@ -1,0 +1,10 @@
+{
+  "self": "https://gitlab.example.com/api/v4/projects/4",
+  "issues": "https://gitlab.example.com/api/v4/projects/4/issues",
+  "merge_requests": "https://gitlab.example.com/api/v4/projects/4/merge_requests",
+  "repo_branches": "https://gitlab.example.com/api/v4/projects/4/repository/branches",
+  "labels": "https://gitlab.example.com/api/v4/projects/4/labels",
+  "events": "https://gitlab.example.com/api/v4/projects/4/events",
+  "members": "https://gitlab.example.com/api/v4/projects/4/members",
+  "cluster_agents": "https://gitlab.example.com/api/v4/projects/4/cluster_agents"
+}

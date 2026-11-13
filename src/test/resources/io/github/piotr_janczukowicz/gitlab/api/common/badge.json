@@ -1,0 +1,9 @@
+{
+  "name": "Pipeline Status",
+  "link_url": "https://example.gitlab.com",
+  "image_url": "https://example.gitlab.com",
+  "rendered_link_url": "https://example.gitlab.com",
+  "rendered_image_url": "https://example.gitlab.com",
+  "id": 1,
+  "kind": "project"
+}

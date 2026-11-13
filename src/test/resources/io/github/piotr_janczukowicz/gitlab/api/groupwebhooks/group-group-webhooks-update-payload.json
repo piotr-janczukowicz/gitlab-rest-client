@@ -1,0 +1,44 @@
+{
+  "url": "url",
+  "name": "name",
+  "description": "description",
+  "push_events": true,
+  "push_events_branch_filter": "push_events_branch_filter",
+  "issues_events": true,
+  "confidential_issues_events": true,
+  "merge_requests_events": true,
+  "tag_push_events": true,
+  "note_events": true,
+  "confidential_note_events": true,
+  "job_events": true,
+  "pipeline_events": true,
+  "project_events": true,
+  "wiki_page_events": true,
+  "deployment_events": true,
+  "feature_flag_events": true,
+  "releases_events": true,
+  "milestone_events": true,
+  "subgroup_events": true,
+  "emoji_events": true,
+  "resource_access_token_events": true,
+  "member_events": true,
+  "vulnerability_events": true,
+  "enable_ssl_verification": true,
+  "token": "token",
+  "signing_token": "signing_token",
+  "custom_webhook_template": "custom_webhook_template",
+  "branch_filter_strategy": "wildcard",
+  "duo_flow_callback_enabled": true,
+  "url_variables": [
+    {
+      "key": "token",
+      "value": "123"
+    }
+  ],
+  "custom_headers": [
+    {
+      "key": "X-Custom-Header",
+      "value": "value"
+    }
+  ]
+}

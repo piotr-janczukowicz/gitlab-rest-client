@@ -1,0 +1,5 @@
+{
+  "secret_push_protection_enabled": true,
+  "pre_receive_secret_detection_enabled": true,
+  "fast_dependency_paths_enabled": true
+}

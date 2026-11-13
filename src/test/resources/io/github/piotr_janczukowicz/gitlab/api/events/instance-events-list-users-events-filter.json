@@ -1,0 +1,7 @@
+{
+  "action": "action",
+  "target_type": "issue",
+  "before": "2026-01-01",
+  "after": "2026-01-01",
+  "sort": "asc"
+}

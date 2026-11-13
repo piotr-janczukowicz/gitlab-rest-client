@@ -1,0 +1,5 @@
+{
+  "state_name": "state_name",
+  "minimum_access_level_for_write": "developer",
+  "allowed_from": "anywhere"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "title",
+  "description": "description",
+  "visibility": "private",
+  "files": [
+    {
+      "file_path": "file_path",
+      "content": "content"
+    }
+  ],
+  "content": "content",
+  "file_name": "file_name"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "name",
+  "provider": "provider",
+  "providers": "providers",
+  "root": "root",
+  "source": "source",
+  "submodules": "submodules",
+  "version": "version",
+  "versions": "versions"
+}

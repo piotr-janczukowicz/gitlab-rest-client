@@ -1,0 +1,10 @@
+{
+  "label_name": [
+    "label_name"
+  ],
+  "milestone_title": "milestone_title",
+  "not[label_name]": [
+    "not[label_name]"
+  ],
+  "not[milestone_title]": "not[milestone_title]"
+}

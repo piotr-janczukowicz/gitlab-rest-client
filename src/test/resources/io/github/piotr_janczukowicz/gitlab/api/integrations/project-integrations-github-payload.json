@@ -1,0 +1,7 @@
+{
+  "token": "token",
+  "repository_url": "repository_url",
+  "static_context": true,
+  "pipeline_events": true,
+  "use_inherited_settings": true
+}

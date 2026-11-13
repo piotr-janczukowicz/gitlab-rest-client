@@ -1,0 +1,9 @@
+{
+  "server_host": "server_host",
+  "server_port": 1,
+  "default_irc_uri": "default_irc_uri",
+  "recipients": "recipients",
+  "colorize_messages": true,
+  "push_events": true,
+  "use_inherited_settings": true
+}

@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "project_id": 1,
+  "tag_name_pattern": "v*-release",
+  "minimum_access_level_for_push": "maintainer",
+  "minimum_access_level_for_delete": "maintainer"
+}

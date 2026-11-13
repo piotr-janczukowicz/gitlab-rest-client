@@ -1,0 +1,8 @@
+{
+  "from": "from",
+  "to": "to",
+  "date": "2026-01-01T00:00:00Z",
+  "trailer": "trailer",
+  "config_file": "config_file",
+  "config_file_ref": "config_file_ref"
+}

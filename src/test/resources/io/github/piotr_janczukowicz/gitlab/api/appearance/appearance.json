@@ -1,0 +1,20 @@
+{
+  "title": "GitLab Community Edition",
+  "description": "Open source software to collaborate on code",
+  "pwa_name": "GitLab",
+  "pwa_short_name": "GitLab",
+  "pwa_description": "GitLab as PWA",
+  "logo": "/uploads/-/system/appearance/logo/1/logo.png",
+  "pwa_icon": "/uploads/-/system/appearance/pwa_icon/1/icon.png",
+  "header_logo": "/uploads/-/system/appearance/header_logo/1/header.png",
+  "favicon": "/uploads/-/system/appearance/favicon/1/favicon.png",
+  "new_project_guidelines": "Please read the FAQs for help.",
+  "member_guidelines": "Please read the member guidelines.",
+  "profile_image_guidelines": "Custom profile image guidelines",
+  "header_message": "This is a header message",
+  "footer_message": "This is a footer message",
+  "message_background_color": "#e75e40",
+  "message_font_color": "#ffffff",
+  "email_header_and_footer_enabled": true,
+  "site_name": "GitLab"
+}

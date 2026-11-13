@@ -1,0 +1,10 @@
+{
+  "event": "i_quickactions_page",
+  "namespace_id": 1,
+  "project_id": 1,
+  "project_path": "namespace/project",
+  "additional_properties": {
+    "key": "value"
+  },
+  "send_to_snowplow": true
+}

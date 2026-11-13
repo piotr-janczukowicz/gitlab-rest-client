@@ -1,0 +1,13 @@
+{
+  "size": 1,
+  "recent_size": 1,
+  "stale_size": 1,
+  "keep_size": 1,
+  "packfile_count": 1,
+  "reverse_index_count": 1,
+  "cruft_count": 1,
+  "keep_count": 1,
+  "loose_objects_count": 1,
+  "stale_loose_objects_count": 1,
+  "loose_objects_garbage_count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "query": "query",
+  "user_ids": [
+    1
+  ],
+  "show_seat_info": true,
+  "state": "awaiting"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "local",
+  "location": ".gitlab/ci/build-images.gitlab-ci.yml",
+  "blob": "https://gitlab.com/gitlab-org/gitlab/-/blob/e52d6d0246d7375291850e61f0abc101fbda9dc2/.gitlab/ci/build-images.gitlab-ci.yml",
+  "raw": "https://gitlab.com/gitlab-org/gitlab/-/raw/e52d6d0246d7375291850e61f0abc101fbda9dc2/.gitlab/ci/build-images.gitlab-ci.yml",
+  "extra": {
+    "key": "value"
+  },
+  "context_project": "gitlab-org/gitlab",
+  "context_sha": "e52d6d0246d7375291850e61f0abc101fbda9dc2"
+}

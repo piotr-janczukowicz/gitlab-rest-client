@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "web_url": "http://gitlab.example.com/groups/diaspora",
+  "name": "Diaspora",
+  "avatar_url": "http://gitlab.example.com/uploads/group/avatar/1/avatar.png",
+  "full_name": "Foobar Group",
+  "full_path": "foo-bar"
+}

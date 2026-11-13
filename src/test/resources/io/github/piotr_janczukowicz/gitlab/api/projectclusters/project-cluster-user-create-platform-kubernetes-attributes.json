@@ -1,0 +1,7 @@
+{
+  "api_url": "api_url",
+  "token": "token",
+  "ca_cert": "ca_cert",
+  "namespace": "namespace",
+  "authorization_type": "unknown_authorization"
+}

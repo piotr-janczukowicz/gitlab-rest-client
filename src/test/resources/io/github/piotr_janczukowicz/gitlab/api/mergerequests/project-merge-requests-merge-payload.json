@@ -1,0 +1,10 @@
+{
+  "merge_commit_message": "merge_commit_message",
+  "squash_commit_message": "squash_commit_message",
+  "should_remove_source_branch": true,
+  "merge_when_pipeline_succeeds": true,
+  "auto_merge": true,
+  "sha": "sha",
+  "squash": true,
+  "skip_merge_train": true
+}

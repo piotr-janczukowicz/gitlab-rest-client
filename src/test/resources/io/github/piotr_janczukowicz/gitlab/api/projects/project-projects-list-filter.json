@@ -1,0 +1,37 @@
+{
+  "archived": true,
+  "visibility": "private",
+  "search": "search",
+  "search_namespaces": true,
+  "owned": true,
+  "starred": true,
+  "imported": true,
+  "membership": true,
+  "with_issues_enabled": true,
+  "with_merge_requests_enabled": true,
+  "with_programming_language": "with_programming_language",
+  "min_access_level": 10,
+  "id_after": 1,
+  "id_before": 1,
+  "last_activity_after": "2026-01-01T00:00:00Z",
+  "last_activity_before": "2026-01-01T00:00:00Z",
+  "repository_storage": "repository_storage",
+  "topic": [
+    "topic"
+  ],
+  "topic_id": 1,
+  "updated_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "include_pending_delete": true,
+  "marked_for_deletion_on": "2026-01-01",
+  "active": true,
+  "wiki_checksum_failed": true,
+  "repository_checksum_failed": true,
+  "include_hidden": true,
+  "simple": true,
+  "statistics": true,
+  "with_custom_attributes": true,
+  "custom_attributes": {
+    "key": "value"
+  }
+}

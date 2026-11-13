@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "user": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "created_at": "2026-01-01T00:00:00Z",
+  "resource_type": "Issue",
+  "resource_id": 1,
+  "iteration": {
+    "id": 1,
+    "iid": 1,
+    "sequence": 1,
+    "group_id": 1,
+    "title": "Iteration I",
+    "description": "Iteration description",
+    "state": 1,
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z",
+    "start_date": "2026-01-01",
+    "due_date": "2026-01-01",
+    "web_url": "https://gitlab.example.com/groups/gitlab-org/-/iterations/1"
+  },
+  "action": "add"
+}

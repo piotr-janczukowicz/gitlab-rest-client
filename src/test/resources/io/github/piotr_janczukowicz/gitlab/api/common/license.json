@@ -1,0 +1,19 @@
+{
+  "key": "gpl-3.0",
+  "name": "GNU General Public License v3.0",
+  "nickname": "GNU GPLv3",
+  "html_url": "http://choosealicense.com/licenses/gpl-3.0",
+  "source_url": "source_url",
+  "popular": true,
+  "description": "A simple license",
+  "conditions": [
+    "include-copyright"
+  ],
+  "permissions": [
+    "commercial-use"
+  ],
+  "limitations": [
+    "liability"
+  ],
+  "content": "GNU GENERAL PUBLIC LICENSE"
+}

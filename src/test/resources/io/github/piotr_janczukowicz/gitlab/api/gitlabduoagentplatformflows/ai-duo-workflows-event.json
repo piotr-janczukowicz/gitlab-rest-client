@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "correlation_id": "correlation_id",
+  "event_type": "event_type",
+  "event_status": "event_status",
+  "message": "message"
+}

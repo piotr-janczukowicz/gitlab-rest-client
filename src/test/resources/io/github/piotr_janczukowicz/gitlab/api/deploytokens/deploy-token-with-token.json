@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "MyToken",
+  "username": "gitlab+deploy-token-1",
+  "expires_at": "2026-01-01T00:00:00Z",
+  "scopes": [
+    "read_repository"
+  ],
+  "revoked": true,
+  "expired": true,
+  "token": "jMRvtPNxrn3crTAGukpZ"
+}

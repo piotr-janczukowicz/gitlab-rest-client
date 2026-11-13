@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "name": "GitLab",
+  "full_path": "gitlab-org/gitlab",
+  "full_name": "GitLab Org / GitLab",
+  "refs_url": "refs_url",
+  "forked": true,
+  "import_source": "source/source-repo",
+  "import_status": "scheduled",
+  "human_import_status_name": "canceled",
+  "provider_link": "/source/source-repo",
+  "import_error": "import_error",
+  "import_warning": "import_warning",
+  "relation_type": "relation_type"
+}

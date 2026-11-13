@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "user_id": 1,
+  "view_diffs_file_by_file": true,
+  "show_whitespace_in_diffs": true,
+  "pass_user_identities_to_ci_jwt": true,
+  "policy_advanced_editor": true,
+  "emoji_skin_tone": "emoji_skin_tone",
+  "mobile_push_working_hours_enabled": true,
+  "mobile_push_working_hours_start": 1,
+  "mobile_push_working_hours_end": 1,
+  "mobile_push_working_days": [
+    "monday"
+  ],
+  "mobile_push_working_hours_time_zone": "Europe/Berlin"
+}

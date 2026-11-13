@@ -1,0 +1,28 @@
+{
+  "project_id": "1",
+  "namespace_id": "1",
+  "ai_catalog_item_consumer_id": 1,
+  "start_workflow": true,
+  "goal": "Fix pipeline for merge request 1 in project 1",
+  "agent_privileges": [
+    1
+  ],
+  "pre_approved_agent_privileges": [
+    1
+  ],
+  "workflow_definition": "software_developer",
+  "allow_agent_to_request_user": true,
+  "image": "registry.gitlab.com/gitlab-org/duo-workflow/custom-image:latest",
+  "source_branch": "main",
+  "environment": "ide",
+  "ai_catalog_item_version_id": 1,
+  "additional_context": [
+    {
+      "Category": "Category",
+      "Content": "Content"
+    }
+  ],
+  "issue_id": 1,
+  "merge_request_id": 1,
+  "source": "merge_request_code_conflict"
+}

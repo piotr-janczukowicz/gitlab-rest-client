@@ -1,0 +1,16 @@
+{
+  "name": "name",
+  "enabled": true,
+  "environment_scope": "environment_scope",
+  "namespace_per_environment": true,
+  "domain": "domain",
+  "management_project_id": 1,
+  "managed": true,
+  "platform_kubernetes_attributes": {
+    "api_url": "api_url",
+    "token": "token",
+    "ca_cert": "ca_cert",
+    "namespace": "namespace",
+    "authorization_type": "unknown_authorization"
+  }
+}

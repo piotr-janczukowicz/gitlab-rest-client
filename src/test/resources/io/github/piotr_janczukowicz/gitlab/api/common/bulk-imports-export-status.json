@@ -1,0 +1,18 @@
+{
+  "relation": "issues",
+  "status": "pending",
+  "error": "Error message",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "batched": true,
+  "batches_count": 1,
+  "total_objects_count": 1,
+  "batches": [
+    {
+      "status": "started",
+      "batch_number": 1,
+      "objects_count": 1,
+      "error": "Error message",
+      "updated_at": "2026-01-01T00:00:00Z"
+    }
+  ]
+}

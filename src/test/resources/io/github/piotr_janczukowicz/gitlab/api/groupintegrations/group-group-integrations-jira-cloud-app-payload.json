@@ -1,0 +1,6 @@
+{
+  "jira_cloud_app_service_ids": "jira_cloud_app_service_ids",
+  "jira_cloud_app_enable_deployment_gating": true,
+  "jira_cloud_app_deployment_gating_environments": "jira_cloud_app_deployment_gating_environments",
+  "use_inherited_settings": true
+}

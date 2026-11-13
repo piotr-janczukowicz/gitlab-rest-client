@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "project",
+  "path": "my_project",
+  "kind": "project",
+  "full_path": "group/my_project",
+  "parent_id": 1,
+  "avatar_url": "https://example.com/avatar/12345",
+  "web_url": "https://example.com/group/my_project"
+}

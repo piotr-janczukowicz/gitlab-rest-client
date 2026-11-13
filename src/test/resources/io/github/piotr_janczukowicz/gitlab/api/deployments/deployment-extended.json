@@ -1,0 +1,245 @@
+{
+  "id": 1,
+  "iid": 1,
+  "ref": "main",
+  "sha": "99d03678b90d914dbb1b109132516d71a4a03ea8",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "user": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "environment": {
+    "id": 1,
+    "name": "deploy",
+    "slug": "deploy",
+    "external_url": "https://deploy.gitlab.example.com",
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z"
+  },
+  "deployable": {
+    "id": 1,
+    "status": "waiting_for_resource",
+    "stage": "deploy",
+    "name": "deploy_to_production",
+    "ref": "main",
+    "tag": true,
+    "coverage": 1.5,
+    "allow_failure": true,
+    "created_at": "2026-01-01T00:00:00Z",
+    "started_at": "2026-01-01T00:00:00Z",
+    "finished_at": "2026-01-01T00:00:00Z",
+    "erased_at": "2026-01-01T00:00:00Z",
+    "duration": 1.5,
+    "queued_duration": 1.5,
+    "user": {
+      "id": 1,
+      "username": "admin",
+      "public_email": "john@example.com",
+      "name": "Administrator",
+      "state": "active",
+      "locked": true,
+      "avatar_url": "https://gravatar.com/avatar/1",
+      "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+      "custom_attributes": [
+        {
+          "key": "foo",
+          "value": "bar"
+        }
+      ],
+      "web_url": "https://gitlab.example.com/root",
+      "created_at": "2026-01-01T00:00:00Z",
+      "bio": "bio",
+      "location": "location",
+      "linkedin": "linkedin",
+      "twitter": "twitter",
+      "discord": "discord",
+      "website_url": "website_url",
+      "github": "github",
+      "job_title": "job_title",
+      "pronouns": "pronouns",
+      "organization": "organization",
+      "bot": true,
+      "work_information": "work_information",
+      "followers": 1,
+      "following": 1,
+      "is_followed": true,
+      "local_time": "local_time"
+    },
+    "commit": {
+      "id": "2695effb5807a22ff3d138d593fd856244e155e7",
+      "short_id": "2695effb",
+      "created_at": "2026-01-01T00:00:00Z",
+      "parent_ids": [
+        "2a4b78934375d7f53875269ffd4f45fd83a84ebe"
+      ],
+      "title": "Initial commit",
+      "message": "Initial commit",
+      "author_name": "John Smith",
+      "author_email": "john@example.com",
+      "authored_date": "2026-01-01T00:00:00Z",
+      "committer_name": "Jack Smith",
+      "committer_email": "jack@example.com",
+      "committed_date": "2026-01-01T00:00:00Z",
+      "trailers": {
+        "key": "value"
+      },
+      "extended_trailers": {
+        "key": "value"
+      },
+      "web_url": "https://gitlab.example.com/janedoe/gitlab-foss/-/commit/ed899a2f4b50b4370feeea94676502b42383c746"
+    },
+    "pipeline": {
+      "id": 1,
+      "iid": 1,
+      "project_id": 1,
+      "sha": "0ec9e58fdfca6cdd6652c083c9edb53abc0bad52",
+      "ref": "feature-branch",
+      "status": "success",
+      "source": "push",
+      "created_at": "2026-01-01T00:00:00Z",
+      "updated_at": "2026-01-01T00:00:00Z",
+      "web_url": "https://gitlab.example.com/gitlab-org/gitlab-foss/-/pipelines/61"
+    },
+    "failure_reason": "script_failure",
+    "web_url": "https://example.com/foo/bar/-/jobs/1",
+    "project": {
+      "ci_job_token_scope_enabled": true
+    },
+    "artifacts_file": {
+      "filename": "artifacts.zip",
+      "size": 1
+    },
+    "artifacts": [
+      {
+        "file_type": "archive",
+        "size": 1,
+        "filename": "artifacts.zip",
+        "file_format": "raw"
+      }
+    ],
+    "runner": {
+      "id": 1,
+      "description": "test-1-20150125",
+      "ip_address": "127.0.0.1",
+      "active": true,
+      "paused": true,
+      "is_shared": true,
+      "runner_type": "instance_type",
+      "name": "test",
+      "online": true,
+      "created_by": {
+        "id": 1,
+        "username": "admin",
+        "public_email": "john@example.com",
+        "name": "Administrator",
+        "state": "active",
+        "locked": true,
+        "avatar_url": "https://gravatar.com/avatar/1",
+        "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+        "custom_attributes": [
+          {
+            "key": "foo",
+            "value": "bar"
+          }
+        ],
+        "web_url": "https://gitlab.example.com/root"
+      },
+      "created_at": "2026-01-01T00:00:00Z",
+      "status": "online",
+      "job_execution_status": "active"
+    },
+    "runner_manager": {
+      "id": 1,
+      "system_id": "runner-1",
+      "version": "16.11.0",
+      "revision": "91a27b2a",
+      "platform": "linux",
+      "architecture": "amd64",
+      "created_at": "2026-01-01T00:00:00Z",
+      "contacted_at": "2026-01-01T00:00:00Z",
+      "ip_address": "127.0.0.1",
+      "status": "online",
+      "job_execution_status": "active"
+    },
+    "artifacts_expire_at": "2026-01-01T00:00:00Z",
+    "archived": true,
+    "tag_list": [
+      "ubuntu18"
+    ]
+  },
+  "status": "created",
+  "pending_approval_count": 1,
+  "approvals": [
+    {
+      "user": {
+        "id": 1,
+        "username": "admin",
+        "public_email": "john@example.com",
+        "name": "Administrator",
+        "state": "active",
+        "locked": true,
+        "avatar_url": "https://gravatar.com/avatar/1",
+        "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+        "custom_attributes": [
+          {
+            "key": "foo",
+            "value": "bar"
+          }
+        ],
+        "web_url": "https://gitlab.example.com/root"
+      },
+      "status": "approved",
+      "created_at": "2026-01-01T00:00:00Z",
+      "comment": "LGTM"
+    }
+  ],
+  "approval_summary": {
+    "rules": [
+      {
+        "id": 1,
+        "user_id": 1,
+        "group_id": 1,
+        "access_level": 1,
+        "access_level_description": "access_level_description",
+        "required_approvals": 1,
+        "group_inheritance_type": 1,
+        "deployment_approvals": {
+          "user": {
+            "id": 1,
+            "username": "admin",
+            "public_email": "john@example.com",
+            "name": "Administrator",
+            "state": "active",
+            "locked": true,
+            "avatar_url": "https://gravatar.com/avatar/1",
+            "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+            "custom_attributes": [
+              {
+                "key": "foo",
+                "value": "bar"
+              }
+            ],
+            "web_url": "https://gitlab.example.com/root"
+          },
+          "status": "approved",
+          "created_at": "2026-01-01T00:00:00Z",
+          "comment": "LGTM"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "sha": "sha",
+  "squash": true,
+  "when_pipeline_succeeds": true,
+  "auto_merge": true
+}

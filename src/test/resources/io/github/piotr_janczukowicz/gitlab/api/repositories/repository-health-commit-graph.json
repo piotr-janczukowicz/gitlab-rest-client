@@ -1,0 +1,6 @@
+{
+  "commit_graph_chain_length": 1,
+  "has_bloom_filters": true,
+  "has_generation_data": true,
+  "has_generation_data_overflow": true
+}

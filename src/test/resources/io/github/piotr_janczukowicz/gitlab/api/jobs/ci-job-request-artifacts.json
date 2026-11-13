@@ -1,0 +1,14 @@
+{
+  "name": "name",
+  "untracked": true,
+  "paths": [
+    "paths"
+  ],
+  "exclude": [
+    "exclude"
+  ],
+  "when": "when",
+  "expire_in": "expire_in",
+  "artifact_type": "artifact_type",
+  "artifact_format": "artifact_format"
+}

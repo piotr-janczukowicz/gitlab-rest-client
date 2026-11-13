@@ -1,0 +1,10 @@
+{
+  "id": "1234",
+  "job_class_name": "CopyColumnUsingBackgroundMigrationJob",
+  "table_name": "events",
+  "column_name": "id",
+  "status": "active",
+  "progress": 1.5,
+  "created_at": "2026-01-01T00:00:00Z",
+  "estimated_time_remaining": "1 day"
+}

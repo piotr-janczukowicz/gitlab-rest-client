@@ -1,0 +1,9 @@
+{
+  "name": "name",
+  "hide_backlog_list": true,
+  "hide_closed_list": true,
+  "assignee_id": 1,
+  "milestone_id": 1,
+  "labels": "labels",
+  "weight": 1
+}

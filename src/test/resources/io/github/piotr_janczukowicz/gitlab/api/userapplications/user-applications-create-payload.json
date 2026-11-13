@@ -1,0 +1,6 @@
+{
+  "name": "MyApplication",
+  "redirect_uri": "https://redirect.uri",
+  "scopes": "scopes",
+  "confidential": true
+}

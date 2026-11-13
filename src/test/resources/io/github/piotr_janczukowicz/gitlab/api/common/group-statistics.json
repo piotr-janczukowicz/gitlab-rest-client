@@ -1,0 +1,11 @@
+{
+  "storage_size": "storage_size",
+  "repository_size": "repository_size",
+  "wiki_size": "wiki_size",
+  "lfs_objects_size": "lfs_objects_size",
+  "job_artifacts_size": "job_artifacts_size",
+  "pipeline_artifacts_size": "pipeline_artifacts_size",
+  "packages_size": "packages_size",
+  "snippets_size": "snippets_size",
+  "uploads_size": "uploads_size"
+}

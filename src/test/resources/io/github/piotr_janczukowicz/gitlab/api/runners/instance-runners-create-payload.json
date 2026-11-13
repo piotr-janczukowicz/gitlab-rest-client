@@ -1,0 +1,22 @@
+{
+  "token": "token",
+  "description": "description",
+  "maintainer_note": "maintainer_note",
+  "maintenance_note": "maintenance_note",
+  "info": {
+    "name": "name",
+    "version": "version",
+    "revision": "revision",
+    "platform": "platform",
+    "architecture": "architecture"
+  },
+  "active": true,
+  "paused": true,
+  "locked": true,
+  "access_level": "not_protected",
+  "run_untagged": true,
+  "tag_list": [
+    "tag_list"
+  ],
+  "maximum_timeout": 1
+}

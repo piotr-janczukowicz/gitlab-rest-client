@@ -1,0 +1,7 @@
+{
+  "workload_identity_federation_project_id": "workload_identity_federation_project_id",
+  "workload_identity_federation_project_number": "workload_identity_federation_project_number",
+  "workload_identity_pool_id": "workload_identity_pool_id",
+  "workload_identity_pool_provider_id": "workload_identity_pool_provider_id",
+  "use_inherited_settings": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "iid": 1,
+  "project_id": 1,
+  "sha": "0ec9e58fdfca6cdd6652c083c9edb53abc0bad52",
+  "ref": "feature-branch",
+  "status": "success",
+  "source": "push",
+  "created_at": "2026-01-01T00:00:00Z",
+  "updated_at": "2026-01-01T00:00:00Z",
+  "web_url": "https://gitlab.example.com/gitlab-org/gitlab-foss/-/pipelines/61"
+}

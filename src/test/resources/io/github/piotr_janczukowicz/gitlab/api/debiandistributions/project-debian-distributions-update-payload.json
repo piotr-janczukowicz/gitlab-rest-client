@@ -1,0 +1,13 @@
+{
+  "suite": "unstable",
+  "origin": "Grep",
+  "label": "grep.be",
+  "description": "My description",
+  "valid_time_duration_seconds": 1,
+  "components": [
+    "components"
+  ],
+  "architectures": [
+    "architectures"
+  ]
+}

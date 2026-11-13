@@ -1,0 +1,25 @@
+{
+  "order_by": "created_at",
+  "sort": "asc",
+  "search": "search",
+  "state": "opened",
+  "author_id": 1,
+  "author_username": "author_username",
+  "labels": [
+    "labels"
+  ],
+  "with_labels_details": true,
+  "created_after": "2026-01-01T00:00:00Z",
+  "created_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "updated_before": "2026-01-01T00:00:00Z",
+  "include_ancestor_groups": true,
+  "include_descendant_groups": true,
+  "my_reaction_emoji": "my_reaction_emoji",
+  "confidential": true,
+  "not[labels]": [
+    "not[labels]"
+  ],
+  "not[author_id]": 1,
+  "not[author_username]": "not[author_username]"
+}

@@ -1,0 +1,11 @@
+{
+  "relation": [
+    "direct"
+  ],
+  "search": "search",
+  "min_access_level": 10,
+  "with_custom_attributes": true,
+  "custom_attributes": {
+    "key": "value"
+  }
+}

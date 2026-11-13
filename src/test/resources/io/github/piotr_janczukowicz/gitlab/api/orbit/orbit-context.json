@@ -1,0 +1,21 @@
+{
+  "version": "1.3.0",
+  "entities": [
+    {
+      "token": "MergeRequest[123]",
+      "resolved_token": "MergeRequest[123]",
+      "type": "MergeRequest",
+      "id": "123",
+      "found": true,
+      "summary": {
+        "key": "value"
+      },
+      "error": {
+        "key": "value"
+      },
+      "expansion": {
+        "key": "value"
+      }
+    }
+  ]
+}

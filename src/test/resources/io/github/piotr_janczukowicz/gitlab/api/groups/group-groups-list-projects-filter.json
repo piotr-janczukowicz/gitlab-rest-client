@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "archived": true,
+  "visibility": "private",
+  "search": "search",
+  "order_by": "id",
+  "sort": "asc",
+  "simple": true,
+  "owned": true,
+  "starred": true,
+  "with_issues_enabled": true,
+  "with_merge_requests_enabled": true,
+  "with_shared": true,
+  "include_subgroups": true,
+  "include_ancestor_groups": true,
+  "min_access_level": 10,
+  "with_custom_attributes": true,
+  "custom_attributes": {
+    "key": "value"
+  },
+  "with_security_reports": true
+}

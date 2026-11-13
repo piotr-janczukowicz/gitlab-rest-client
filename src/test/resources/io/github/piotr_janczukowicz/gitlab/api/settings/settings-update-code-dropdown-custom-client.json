@@ -1,0 +1,5 @@
+{
+  "name": "name",
+  "ssh_url_template": "ssh_url_template",
+  "http_url_template": "http_url_template"
+}

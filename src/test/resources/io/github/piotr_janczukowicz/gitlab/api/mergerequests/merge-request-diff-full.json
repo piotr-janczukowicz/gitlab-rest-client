@@ -1,0 +1,51 @@
+{
+  "id": 1,
+  "head_commit_sha": "1234abcd",
+  "base_commit_sha": "1234abcd",
+  "start_commit_sha": "1234abcd",
+  "created_at": "2026-01-01T00:00:00Z",
+  "merge_request_id": 1,
+  "state": "collected",
+  "real_size": "1",
+  "patch_id_sha": "1234abcd",
+  "commits": [
+    {
+      "id": "2695effb5807a22ff3d138d593fd856244e155e7",
+      "short_id": "2695effb",
+      "created_at": "2026-01-01T00:00:00Z",
+      "parent_ids": [
+        "2a4b78934375d7f53875269ffd4f45fd83a84ebe"
+      ],
+      "title": "Initial commit",
+      "message": "Initial commit",
+      "author_name": "John Smith",
+      "author_email": "john@example.com",
+      "authored_date": "2026-01-01T00:00:00Z",
+      "committer_name": "Jack Smith",
+      "committer_email": "jack@example.com",
+      "committed_date": "2026-01-01T00:00:00Z",
+      "trailers": {
+        "key": "value"
+      },
+      "extended_trailers": {
+        "key": "value"
+      },
+      "web_url": "https://gitlab.example.com/janedoe/gitlab-foss/-/commit/ed899a2f4b50b4370feeea94676502b42383c746"
+    }
+  ],
+  "diffs": [
+    {
+      "diff": "@@ -71,6 +71,8 @@\\n...",
+      "collapsed": true,
+      "too_large": true,
+      "new_path": "doc/update/5.4-to-6.0.md",
+      "old_path": "doc/update/5.4-to-6.0.md",
+      "a_mode": "100755",
+      "b_mode": "100644",
+      "new_file": true,
+      "renamed_file": true,
+      "deleted_file": true,
+      "generated_file": true
+    }
+  ]
+}

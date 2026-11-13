@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "name",
+  "parameters": {
+    "key": "value"
+  },
+  "user_list_id": 1,
+  "_destroy": true,
+  "scopes": [
+    {
+      "id": 1,
+      "environment_scope": "environment_scope",
+      "_destroy": true
+    }
+  ]
+}

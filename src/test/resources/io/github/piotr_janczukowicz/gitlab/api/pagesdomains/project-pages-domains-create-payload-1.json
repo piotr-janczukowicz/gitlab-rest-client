@@ -1,0 +1,8 @@
+{
+  "domain": "domain",
+  "certificate": "text",
+  "key": "text",
+  "auto_ssl_enabled": true,
+  "user_provided_certificate": "user_provided_certificate",
+  "user_provided_key": "user_provided_key"
+}

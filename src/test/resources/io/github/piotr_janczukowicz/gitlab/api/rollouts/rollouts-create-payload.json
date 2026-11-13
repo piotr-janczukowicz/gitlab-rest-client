@@ -1,0 +1,25 @@
+{
+  "topic": "topic",
+  "type": "type",
+  "data": {
+    "position": [
+      1
+    ],
+    "stage_name": "stage_name",
+    "environment": "environment",
+    "step_type": "step_type",
+    "service": "service",
+    "error": "error",
+    "reason": "reason",
+    "reply": "reply"
+  },
+  "value": {
+    "key": "value"
+  },
+  "channel_tokens": [
+    {
+      "channel_name": "channel_name",
+      "token": "token"
+    }
+  ]
+}

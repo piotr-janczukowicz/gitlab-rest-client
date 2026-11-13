@@ -1,0 +1,6 @@
+{
+  "source_type": "group_entity",
+  "source_full_path": "source_full_path",
+  "destination_namespace": "destination_namespace",
+  "destination_slug": "destination_slug"
+}

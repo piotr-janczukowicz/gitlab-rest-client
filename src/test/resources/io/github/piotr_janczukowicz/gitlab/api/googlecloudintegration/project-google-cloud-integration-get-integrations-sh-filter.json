@@ -1,0 +1,4 @@
+{
+  "enable_google_cloud_artifact_registry": true,
+  "google_cloud_artifact_registry_project_id": "my-project-123"
+}

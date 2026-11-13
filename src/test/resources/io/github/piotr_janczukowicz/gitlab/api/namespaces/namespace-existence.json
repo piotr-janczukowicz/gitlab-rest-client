@@ -1,0 +1,6 @@
+{
+  "exists": true,
+  "suggests": [
+    "my-group1"
+  ]
+}

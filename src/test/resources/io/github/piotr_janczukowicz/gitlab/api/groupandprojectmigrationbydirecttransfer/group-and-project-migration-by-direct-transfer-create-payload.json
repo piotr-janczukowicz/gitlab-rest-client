@@ -1,0 +1,17 @@
+{
+  "configuration": {
+    "url": "url",
+    "access_token": "access_token"
+  },
+  "entities": [
+    {
+      "source_type": "group_entity",
+      "source_full_path": "'source/full/path' not 'https://example.com/source/full/path'",
+      "destination_namespace": "'destination_namespace' or 'destination/namespace'",
+      "destination_slug": "'destination_slug' not 'destination/slug'",
+      "destination_name": "'destination_slug' not 'destination/slug'",
+      "migrate_projects": true,
+      "migrate_memberships": true
+    }
+  ]
+}

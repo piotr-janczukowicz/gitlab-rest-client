@@ -1,0 +1,14 @@
+{
+  "domain": "domain",
+  "url": "url",
+  "verified": "verified",
+  "verification_code": "verification_code",
+  "enabled_until": "enabled_until",
+  "auto_ssl_enabled": "auto_ssl_enabled",
+  "certificate": {
+    "subject": "subject",
+    "expired": "expired",
+    "certificate": "certificate",
+    "certificate_text": "certificate_text"
+  }
+}

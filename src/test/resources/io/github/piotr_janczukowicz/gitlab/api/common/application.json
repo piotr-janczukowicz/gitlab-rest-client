@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "application_id": "5832fc6e14300a0d962240a8144466eef4ee93ef0d218477e55f11cf12fc3737",
+  "application_name": "MyApplication",
+  "callback_url": "https://redirect.uri",
+  "confidential": true,
+  "scopes": [
+    "api"
+  ],
+  "granular_scopes": [
+    {
+      "access": "personal_projects",
+      "permissions": [
+        "read_job"
+      ],
+      "project_id": 1,
+      "group_id": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "my_package",
+  "versions": {
+    "key": "value"
+  },
+  "dist-tags": {
+    "key": "value"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "name",
+  "creation_timestamp": 1,
+  "last_updated_timestamp": 1,
+  "description": "description",
+  "user_id": "user_id",
+  "tags": [
+    {
+      "key": "key",
+      "value": "value"
+    }
+  ],
+  "latest_versions": [
+    {
+      "name": "name",
+      "version": "version",
+      "creation_timestamp": 1,
+      "last_updated_timestamp": 1,
+      "user_id": "user_id",
+      "current_stage": "development",
+      "description": "description",
+      "source": "source",
+      "run_id": "run_id",
+      "status": "READY",
+      "status_message": "status_message",
+      "tags": [
+        {
+          "key": "key",
+          "value": "value"
+        }
+      ],
+      "run_link": "run_link",
+      "aliases": [
+        "aliases"
+      ]
+    }
+  ]
+}

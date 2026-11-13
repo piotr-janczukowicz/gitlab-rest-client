@@ -1,0 +1,6 @@
+{
+  "include_retried": true,
+  "scope": [
+    "text"
+  ]
+}

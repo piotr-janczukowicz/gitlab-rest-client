@@ -1,0 +1,14 @@
+{
+  "build_artifacts_size": 1,
+  "container_registry_size": 1,
+  "container_registry_size_is_estimated": true,
+  "dependency_proxy_size": 1,
+  "lfs_objects_size": 1,
+  "packages_size": 1,
+  "pipeline_artifacts_size": 1,
+  "repository_size": 1,
+  "snippets_size": 1,
+  "storage_size": 1,
+  "uploads_size": 1,
+  "wiki_size": 1
+}

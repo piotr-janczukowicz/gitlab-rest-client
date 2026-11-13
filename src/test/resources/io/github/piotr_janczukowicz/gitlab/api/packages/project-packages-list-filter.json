@@ -1,0 +1,9 @@
+{
+  "order_by": "created_at",
+  "sort": "asc",
+  "package_type": "maven",
+  "package_name": "package_name",
+  "package_version": "package_version",
+  "include_versionless": true,
+  "status": "default"
+}

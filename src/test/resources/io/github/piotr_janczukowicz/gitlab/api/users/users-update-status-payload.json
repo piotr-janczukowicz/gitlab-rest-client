@@ -1,0 +1,6 @@
+{
+  "emoji": "emoji",
+  "message": "message",
+  "availability": "availability",
+  "clear_status_after": "30_minutes"
+}

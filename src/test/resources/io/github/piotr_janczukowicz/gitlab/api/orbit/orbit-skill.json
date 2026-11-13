@@ -1,0 +1,13 @@
+{
+  "name": "orbit",
+  "version": "0.29.0",
+  "compatibility": "Orbit CLI",
+  "server_version": "0.31.0",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "sha256": "abc123",
+      "content": "# Orbit skill"
+    }
+  ]
+}

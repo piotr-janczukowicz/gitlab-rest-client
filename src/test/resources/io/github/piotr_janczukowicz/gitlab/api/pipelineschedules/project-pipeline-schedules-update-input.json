@@ -1,0 +1,7 @@
+{
+  "name": "deploy_strategy",
+  "destroy": true,
+  "value": [
+    "value"
+  ]
+}

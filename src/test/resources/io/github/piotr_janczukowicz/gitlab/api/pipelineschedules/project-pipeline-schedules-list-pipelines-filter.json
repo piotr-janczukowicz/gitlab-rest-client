@@ -1,0 +1,9 @@
+{
+  "scope": "running",
+  "status": "created",
+  "updated_before": "2026-01-01T00:00:00Z",
+  "updated_after": "2026-01-01T00:00:00Z",
+  "created_before": "2026-01-01T00:00:00Z",
+  "created_after": "2026-01-01T00:00:00Z",
+  "sort": "asc"
+}

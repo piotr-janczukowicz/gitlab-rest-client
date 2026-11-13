@@ -1,0 +1,19 @@
+{
+  "confidence": "high",
+  "results": [
+    {
+      "path": "app/models/user.rb",
+      "blob_id": "abc123def456",
+      "file_url": "https://gitlab.com/group/project/-/blob/main/user.rb",
+      "score": 1.5,
+      "snippet_ranges": [
+        {
+          "start_line": 1,
+          "end_line": 1,
+          "content": "def authenticate\n  ...\nend",
+          "score": 1.5
+        }
+      ]
+    }
+  ]
+}

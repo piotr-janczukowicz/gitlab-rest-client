@@ -1,0 +1,11 @@
+{
+  "enable_ssl_verification": true,
+  "jenkins_url": "jenkins_url",
+  "project_name": "project_name",
+  "username": "username",
+  "password": "password",
+  "push_events": true,
+  "merge_requests_events": true,
+  "tag_push_events": true,
+  "use_inherited_settings": true
+}

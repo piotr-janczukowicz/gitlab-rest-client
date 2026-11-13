@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "user": {
+    "id": 1,
+    "username": "admin",
+    "public_email": "john@example.com",
+    "name": "Administrator",
+    "state": "active",
+    "locked": true,
+    "avatar_url": "https://gravatar.com/avatar/1",
+    "avatar_path": "/user/avatar/28/The-Big-Lebowski-400-400.png",
+    "custom_attributes": [
+      {
+        "key": "foo",
+        "value": "bar"
+      }
+    ],
+    "web_url": "https://gitlab.example.com/root"
+  },
+  "created_at": "2026-01-01T00:00:00Z",
+  "resource_type": "Issue",
+  "resource_id": 1,
+  "source_commit": "7b09ce7e6f80347baf0316c8c94cdba9a0a7e91d",
+  "source_merge_request_id": 1,
+  "state": "opened"
+}

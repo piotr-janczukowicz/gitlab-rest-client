@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "auth_method": "auth_method",
+  "keep_divergent_refs": true,
+  "only_protected_branches": true,
+  "mirror_branch_regex": "mirror_branch_regex",
+  "host_keys": [
+    "host_keys"
+  ]
+}

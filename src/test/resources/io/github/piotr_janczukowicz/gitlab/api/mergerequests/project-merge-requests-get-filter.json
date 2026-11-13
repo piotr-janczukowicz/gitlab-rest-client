@@ -1,0 +1,5 @@
+{
+  "render_html": true,
+  "include_diverged_commits_count": true,
+  "include_rebase_in_progress": true
+}

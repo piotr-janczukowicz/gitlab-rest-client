@@ -1,0 +1,13 @@
+{
+  "file_name": "file_name",
+  "file_path": "file_path",
+  "size": 1,
+  "encoding": "encoding",
+  "content": "content",
+  "content_sha256": "content_sha256",
+  "ref": "ref",
+  "blob_id": "blob_id",
+  "commit_id": "commit_id",
+  "last_commit_id": "last_commit_id",
+  "execute_filemode": true
+}
