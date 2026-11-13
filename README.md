@@ -7,8 +7,8 @@ GitLab Dedicated and self-managed GitLab, with pagination, rate-limit handling a
 ![Java 21](https://img.shields.io/badge/Java-21-orange.svg)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build](https://github.com/piotr-janczukowicz/gitlab-rest-client/actions/workflows/main.yml/badge.svg)](https://github.com/piotr-janczukowicz/gitlab-rest-client/actions/workflows/main.yml)
-[![Codacy Coverage](https://app.codacy.com/project/badge/Coverage/04ddc44afba54f689407bf677619d562)](https://app.codacy.com/gh/piotr-janczukowicz/gitlab-rest-client/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_Coverage)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/04ddc44afba54f689407bf677619d562)](https://app.codacy.com/gh/piotr-janczukowicz/gitlab-rest-client/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_Grade)
+[![Codacy Coverage](https://app.codacy.com/project/badge/Coverage/528ad5f63ffb41a18aceb341e2e605a8)](https://app.codacy.com/gh/piotr-janczukowicz/gitlab-rest-client/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_Coverage)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/528ad5f63ffb41a18aceb341e2e605a8)](https://app.codacy.com/gh/piotr-janczukowicz/gitlab-rest-client/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_Grade)
 
 **API version:** `19.6` (the version of GitLab's OpenAPI description)
 
