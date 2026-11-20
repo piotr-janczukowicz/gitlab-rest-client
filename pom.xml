@@ -5,7 +5,7 @@
   <parent>
     <groupId>io.github.piotr-janczukowicz</groupId>
     <artifactId>common-parent</artifactId>
-    <version>15</version>
+    <version>17</version>
     <relativePath/>
   </parent>
 
@@ -18,8 +18,8 @@
   <url>https://github.com/piotr-janczukowicz/gitlab-rest-client</url>
 
   <properties>
-    <common-core.version>6</common-core.version>
-    <gitlab-client.version>1</gitlab-client.version>
+    <common-core.version>8</common-core.version>
+    <gitlab-client.version>2</gitlab-client.version>
     <junit.parallel.enabled>true</junit.parallel.enabled>
     <test.module.args>-Xmx3g --add-modules jdk.httpserver --add-reads io.github.piotr_janczukowicz.gitlabrestclient=jdk.httpserver --add-opens io.github.piotr_janczukowicz.gitlabrestclient/io.github.piotr_janczukowicz.gitlab.test=common.core</test.module.args>
   </properties>
